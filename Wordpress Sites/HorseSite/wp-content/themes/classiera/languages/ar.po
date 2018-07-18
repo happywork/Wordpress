@@ -1,0 +1,6570 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: Classiera\n"
+"POT-Creation-Date: 2017-12-28 15:04+0500\n"
+"PO-Revision-Date: 2017-12-28 15:04+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:45
+msgid "Oops, "
+msgstr ""
+
+#: 404.php:46
+msgid "Sorry We Cant Find That Page!"
+msgstr ""
+
+#: 404.php:47
+msgid "Either somthing went wrong or the page doesnt exist anymore."
+msgstr ""
+
+#: 404.php:48
+msgid "Go back HomePage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:77 ReduxFramework/theme-options.php:78
+msgid "Classiera Options"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:178 ReduxFramework/theme-options.php:3036
+msgid "Documentation"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:206 ReduxFramework/theme-options.php:208
+msgid "Welcome To Classiera Classifieds Ads WordPress Theme Options Panel"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:212
+msgid "Thanks for using Classiera Options Panel."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:228
+msgid "Theme Information 1"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:229 ReduxFramework/theme-options.php:234
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:233
+msgid "Theme Information 2"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:240
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:263
+msgid "General Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:267
+msgid "Classiera General Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:273
+msgid "Logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:276
+msgid "Upload your logo Recommended image size:150x50"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:277 ReduxFramework/theme-options.php:2435
+#: ReduxFramework/theme-options.php:2455 ReduxFramework/theme-options.php:2475
+#: ReduxFramework/theme-options.php:2495 ReduxFramework/theme-options.php:2515
+#: ReduxFramework/theme-options.php:2535 ReduxFramework/theme-options.php:2555
+#: ReduxFramework/theme-options.php:2575
+msgid "Upload your logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:284
+msgid "Favicon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:287
+msgid "Upload your favicon.(Recommended image size:16x16)"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:288
+msgid "Upload your favicon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:294
+msgid "Email Verification on Register"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:295
+msgid "Email Verification"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:296
+msgid ""
+"If you will turn On This Then User must need to put valid email and then "
+"password will be goes to user email inbox. If you will turn OFF this then "
+"there is no need for vaild email, User can just set password at front-end."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:302
+msgid "Social Login Area"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:303
+msgid "Social Login On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:304
+msgid ""
+"If you are not using social login and you want to remove message for social "
+"login then turn OFF this option"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:310
+msgid "Select pagination type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:311
+msgid "Pagination type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:312
+msgid "Select pagination or Infinite Scroll"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:319
+msgid "Back To Top Button"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:320
+msgid "If you dont want to use Back To Top Button Then Just Turn OFF This"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:321
+msgid "Turn On/OFF Back To Top"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:327
+msgid "Ads Count on All Ads Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:328 ReduxFramework/theme-options.php:336
+#: ReduxFramework/theme-options.php:344
+msgid "Put Number"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:329
+msgid "How Many Ads you want to shown on All Ads Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:335
+msgid "Categoreis Count on All Categoreis Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:337
+msgid "How Many Categoreis you want to shown on All Categoreis Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:343
+msgid "Related Ads Count"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:345
+msgid "How many related ads you want to show on single post page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:351
+msgid "Email to Admin on Signup New User"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:352
+msgid "Would You like to receive email?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:353
+msgid ""
+"If You want to receive Email on new user registration Please Turn On This "
+"option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:359 ReduxFramework/theme-options.php:360
+msgid "Number of tags in tag Cloud widget"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:361
+msgid "Put here a number. Example \"16\""
+msgstr ""
+
+#: ReduxFramework/theme-options.php:367 ReduxFramework/theme-options.php:368
+msgid "Footer Widgets Area On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:369
+msgid "If You dont want to use widgets in footer then just turn off."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:375 ReduxFramework/theme-options.php:376
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:377
+msgid "You can add text and HTML in here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:384
+msgid "Footer Logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:387
+msgid "Upload your logo for footer Recommended image size:150x50"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:388
+msgid "Upload Footer logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:395
+msgid "Email LOGO Image"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:398
+msgid "Upload your email header logo image size:200x60"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:399
+msgid "Upload header logo for email"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:406
+msgid "Email Header Image"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:409
+msgid "Upload your email header image size:900x180"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:410
+msgid "Upload header for email"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:418
+msgid "HomePage Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:420
+msgid "Manage All HomePage Sections!"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:425
+msgid "Home General Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:430
+msgid "Home General settings of Classiera"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:435
+msgid "How many Categories on homepage?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:436 ReduxFramework/theme-options.php:437
+msgid "Categories on homepage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:443
+msgid "How many Categories Cat Menu"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:444
+msgid "Cat Menu Bar"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:445
+msgid "Categories Menu Bar on homepage V4 and Landing Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:451
+msgid "Post Counter on Category Box"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:452
+msgid "Post Count on Category box On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:453
+msgid "If You want to hide count from category box then turn OFF this option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:459
+msgid "How many Ads Regular on homepage?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:460 ReduxFramework/theme-options.php:461
+#: ReduxFramework/theme-options.php:468
+msgid "Ads on homepage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:467
+msgid "How many Featured Ads on homepage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:469
+msgid "All Ads section on home page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:475
+msgid "How many Locations on homepage?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:476
+msgid "Put a number count"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:477
+msgid ""
+"How many locations you want to show on homepage, put a number like (5, 10 , "
+"15) etc."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:483
+msgid "Select Ads view type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:484 ReduxFramework/theme-options.php:485
+msgid "Ads view type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:492 ReduxFramework/theme-options.php:493
+msgid "Locations title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:494
+msgid "Put here locations title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:500 ReduxFramework/theme-options.php:501
+msgid "Locations title description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:502
+msgid "Put here location sub title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:508 ReduxFramework/theme-options.php:509
+msgid "Plans title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:510
+msgid "Put here Plans title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:516 ReduxFramework/theme-options.php:517
+msgid "Plans title description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:518
+msgid "Put here plan sub title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:525
+msgid "Pricing Plans Background"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:528
+msgid "Upload Pricing Plans Background Image Recommended size: 1600x710"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:529
+msgid "Upload Plans BG"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:535 ReduxFramework/theme-options.php:536
+msgid "Advertisement title description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:537
+msgid "Put here Advertisement sub title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:543 ReduxFramework/theme-options.php:544
+msgid "Categories Section Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:545
+msgid "Put Categories Section Title here.."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:551 ReduxFramework/theme-options.php:552
+msgid "Categories Section Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:553
+msgid "Put Categories Section Description here.."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:559
+msgid "Static Banner settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:563
+msgid ""
+"If You are using Image Slider on you HomePage Then you need to setup from "
+"here.)"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:568
+msgid "Header Banner Background"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:569
+msgid "Header Banner Background, color, etc."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:570
+msgid ""
+"If you want to use image then dont select color just upload image banner "
+"Size: width:1600px and height 733px"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:583 ReduxFramework/theme-options.php:584
+msgid "HomePage Header First Heading"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:585
+msgid "Put Header Title Here Note: This Title will work with HomePage V2,V3,V4"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:591 ReduxFramework/theme-options.php:592
+msgid "HomePage Header Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:593
+msgid ""
+"Put Header Description Here Note: This Title will work with HomePage V2,V3,V4"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:600
+msgid "Header First Heading Font Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:601 ReduxFramework/theme-options.php:618
+msgid "Specify the font settings properties."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:617
+msgid "Header Description Font Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:635
+msgid "Call To Action"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:639
+msgid ""
+"Manage Process Call To Action on homepage, If you are not using Call To "
+"Action section then no need to do anything here"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:645
+msgid "CTA Bakground"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:648
+msgid "Upload your CTA Background"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:649
+msgid "Upload CTA Background"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:656
+msgid "CTA About Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:659
+msgid "Upload your CTA About Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:660
+msgid "Upload CTA About Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:666
+msgid "Call To Action Title "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:667
+msgid "Call To Action Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:668
+msgid "Put Homepage Call To Action Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:674
+msgid "Homepage CTA Description "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:675
+msgid "CTA Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:676
+msgid "Put Homepage CTA Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:683
+msgid "CTA Sell Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:686
+msgid "Upload your CTA Sell Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:687
+msgid "Upload CTA Sell Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:693
+msgid "CTA Sell Title "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:694
+msgid "CTA SELL Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:695
+msgid "Put Homepage CTA SELL Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:701
+msgid "Homepage CTA sell Description "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:702
+msgid "CTA sell Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:703
+msgid "Put Homepage CTA sell Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:710
+msgid "CTA Buy Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:713
+msgid "Upload your CTA Buy Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:714
+msgid "Upload CTA Buy Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:720
+msgid "Homepage CTA Buy Title "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:721
+msgid "CTA Buy Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:722
+msgid "Put Homepage CTA Buy Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:728
+msgid "Homepage CTA Buy Description "
+msgstr ""
+
+#: ReduxFramework/theme-options.php:729
+msgid "CTA Buy Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:730
+msgid "Put Homepage CTA Buy Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:736
+msgid "Callout Message"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:740
+msgid "Callout Message For Home page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:745
+msgid "Parallax effect"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:746 ReduxFramework/theme-options.php:894
+#: ReduxFramework/theme-options.php:920 ReduxFramework/theme-options.php:937
+#: ReduxFramework/theme-options.php:2398
+msgid "Turn On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:747
+msgid ""
+"Turn On/OFF Parallax effect, this effect will work on (strobe, coral, canary)"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:754 ReduxFramework/theme-options.php:758
+msgid "Callout Background"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:757
+msgid "Upload your Image."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:765 ReduxFramework/theme-options.php:769
+msgid "Callout Small Image"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:768
+msgid "This Image will be shown On HomePage v2,v3,v4 Image Size: 435px, 360px"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:775
+msgid " Callout Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:776
+msgid "Put here your Callout title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:777
+msgid "Callout Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:783
+msgid "Callout Title Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:784
+msgid "Pick a text color default: #ffffff."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:792
+msgid " Callout second Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:793
+msgid "Put here your Callout Second title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:794
+msgid "Callout second Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:800
+msgid "Callout second title text Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:801
+msgid "Pick a Color default: #ffffff."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:809
+msgid " Callout Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:810
+msgid "Put here your Callout Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:811
+msgid "Callout Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:817
+msgid "Callout description Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:818
+msgid "Pick a Color for callout description text default: #ffffff."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:826
+msgid " Callout Button Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:827
+msgid "Put here your Callout Button Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:828 ReduxFramework/theme-options.php:852
+msgid "Callout Button Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:834
+msgid "Callout First Button icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:835 ReduxFramework/theme-options.php:859
+msgid ""
+"Put icon code from font awsome, This code is only work on Home V1 and Home "
+"V2."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:841
+msgid " Callout Button URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:842
+msgid "Put here your Callout Button URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:843 ReduxFramework/theme-options.php:867
+msgid "Callout Button URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:850
+msgid " Callout Second Button Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:851
+msgid "Put here your Second Callout Button Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:858
+msgid "Callout Second Button icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:865
+msgid " Callout Second Button URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:866
+msgid "Put here your Second Callout Button URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:875
+msgid "Search Setting"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:880
+msgid "Search Page Setting"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:885
+msgid "Max Price"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:886
+msgid "Put Value"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:887
+msgid "Max Price Value for Advance Search"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:893
+msgid "Location from search Bar"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:895
+msgid "Turn On/OFF Location from Search Bar"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:901
+msgid "Select locations type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:902
+msgid "Locations type in header"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:903
+msgid "Dropdown or input select what you want to show."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:910
+msgid "Select Location Shown by"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:911
+msgid "Location Shown by"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:912
+msgid "Location Section Shown by City or States or Country?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:919
+msgid "Price Range From Search"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:921
+msgid "Turn On/OFF Price Range from Search Result Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:927
+msgid "Select Price range style"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:928
+msgid "Search style in advanced search."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:929
+msgid "This will only work in advanced search sidebar."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:936
+msgid "Advanced Search on Categoreis page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:938
+msgid "Turn On/OFF Advanced search from categories page."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:944
+msgid "Blogs"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:947
+msgid "Manage Blog section On HomePage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:953
+msgid "Blog Section Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:954 ReduxFramework/theme-options.php:962
+msgid "Replace text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:955
+msgid "Change blog section title from homepage."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:961
+msgid "Blog Section Decciption"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:963
+msgid "Change blog section Decciption from homepage."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:969
+msgid "How Many Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:970
+msgid "Post Count"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:971
+msgid "How many posts you want to shown in blog section on homepage?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:977
+msgid "Blog Section Post Order"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:978
+msgid "orderby"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:985
+msgid "Blog Post Order"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:986
+msgid "Order"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:994
+msgid "Layout Manager"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:996
+msgid "Home Page and Landing Page Manager"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1002
+msgid "Layout Utilities"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1005
+msgid "From This section you can select Layout Design."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1012 ReduxFramework/theme-options.php:1013
+#: ReduxFramework/theme-options.php:1014
+msgid "Nav Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1021
+msgid "Sticky Navbar"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1022 ReduxFramework/theme-options.php:1103
+msgid "On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1023
+msgid "Turn OFF this option if you dont need sticky navbar."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1029
+msgid "Search Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1030 ReduxFramework/theme-options.php:1039
+#: ReduxFramework/theme-options.php:1048 ReduxFramework/theme-options.php:1066
+#: ReduxFramework/theme-options.php:2406
+msgid "Select Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1031
+msgid ""
+"Selection Will work on all pages other then homepage, on homepage search bar "
+"will be used from template"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1038
+msgid "Premium Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1040 ReduxFramework/theme-options.php:1049
+#: ReduxFramework/theme-options.php:2407
+msgid ""
+"Selection Will work on all pages other then homepage, on homepage Design "
+"will be used from template"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1047
+msgid "Categoreis Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1056
+msgid "Categories Icons"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1057
+msgid "Select Type for categories Icon"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1058
+msgid ""
+"You want to show categories icons from font awsome or you have your own "
+"images icon?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1065
+msgid "Single Ad Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1067
+msgid "Select Style for Single Ads Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1075
+msgid "Author Page Style"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1076 ReduxFramework/theme-options.php:1085
+#: ReduxFramework/theme-options.php:1094
+msgid "Select Style"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1077
+msgid "Select Style for Author Public Profile Page."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1084
+msgid "Footer Style"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1086
+msgid "Select Style for Footer"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1093
+msgid "Footer bottom Style"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1095
+msgid "Select what you want to show in footer bottom Menu or social Icons"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1102
+msgid "Categoreis description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1104
+msgid ""
+"If you want to show category description on category page then turn On this "
+"option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1111
+msgid "Home Layout Manager"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1114
+msgid ""
+"These Settings will work only on HomePage Version 1, If you want to disable "
+"any section just drag to Disable section."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1310
+msgid "Landing Page Manager"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1313
+msgid ""
+"These Settings will work only Landing Page, Now you can use any section on "
+"Landing Page."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1400
+msgid "Ads Manager"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1402
+msgid "Manage Premium Ads and Regular Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1408
+msgid "Premium Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1417 ReduxFramework/theme-options.php:1418
+msgid "Premium Section Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1419
+msgid "Put here Premium Section Title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1425 ReduxFramework/theme-options.php:1426
+msgid "Premium Section Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1427
+msgid "Put here Premium Section Description."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1433
+msgid "Premium Ads slider"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1434
+msgid "Ads slider"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1435
+msgid ""
+"If you want to turn off Premium Ads slider from all pages other then "
+"homepage then just turn off this option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1441
+msgid "Featured Category On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1442
+msgid "Ads Shown From Featured Category."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1443
+msgid "If You dont want to use Featured Category then Turn OFF This Options"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1457 ReduxFramework/theme-options.php:1458
+msgid "Featured Category"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1459
+msgid ""
+"If You dont want to use Paid Ads then Just select a Category from here and "
+"All Ads from this category will be shown at Premium Slider Place."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1464
+msgid "How many Premium Ads on homepage?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1465
+msgid "Premium Ads on homepage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1466
+msgid "How many Premium Ads you want to show in Premium Slider"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1472
+msgid "How May Image for Premium Ads?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1473
+msgid "Premium Ads Image Limit"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1474
+msgid ""
+"Put a Value for Premium Ads , How May Images you want to allow to Paid "
+"users?. Example \"3\""
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1481
+msgid "Regulars Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1490 ReduxFramework/theme-options.php:1491
+msgid "Regular ad posting On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1497 ReduxFramework/theme-options.php:1498
+#: ReduxFramework/theme-options.php:1499
+msgid "Regular Ads Expiry"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1506
+msgid "How May Image for Regular Ads?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1507
+msgid "Regular Ads Image Limit"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1508
+msgid ""
+"Put a Value for Regulars Ads , How May Images you want to allow to regular "
+"users? Example \"2\""
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1514
+msgid "Regular Ads Post Limit"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1515
+msgid "Turn ON/OFF Limit for Regular Ads."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1516
+msgid ""
+"If You want to Put Limit for free Ads Posting then You must need to Turn On "
+"This Option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1522
+msgid "How May Free Ads User Can Post?"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1523
+msgid "Regular Ads Limit"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1524
+msgid ""
+"Put a Value for Regulars Ads , How May Free Ads you want to allow to regular "
+"users? Example \"2\""
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1532
+msgid "Post Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1536
+msgid "Some Settings Which Will work on Post New Ads Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1541 ReduxFramework/theme-options.php:1542
+msgid "Post moderation"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1548 ReduxFramework/theme-options.php:1549
+msgid "Post moderation On every edit post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1555 ReduxFramework/theme-options.php:1556
+msgid "Related Ads On Single Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1562
+msgid "Comments section On Single Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1563
+msgid "Comments section ON/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1569
+msgid "Author Contact info"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1570
+msgid "Contact info ON/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1576
+msgid "Bid system"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1577
+msgid "Bid option ON/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1578
+msgid "If you dont want to use Bidding then turn OFF this option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1584
+msgid "Report / Watch Later"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1585
+msgid "Turn ON/OFF Report Ad and Watch Later"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1591
+msgid "Author Message Box On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1592
+msgid "Author Message box on ad detail page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1598 ReduxFramework/theme-options.php:1599
+msgid "Regular Price Tab on Post New Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1605
+msgid "Price section"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1606
+msgid "Price Tab on Post New Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1607
+msgid ""
+"If you want to hide price section completly then please turn off this option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1613
+msgid "Asking Phone Number on Post New Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1614
+msgid "If you dont want to ask phone number then just Turn OFF this."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1620
+msgid "Ads Type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1621
+msgid "Turn On/OFF Ads Type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1627 ReduxFramework/theme-options.php:1628
+msgid "Locations States On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1629
+msgid "This option will only work when you are not using City dropdown."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1635 ReduxFramework/theme-options.php:1636
+msgid "Locations City On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1637
+msgid "If you dont want to use city dropdown then turn off this ."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1643 ReduxFramework/theme-options.php:1644
+msgid "Address Field On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1645
+msgid "If you dont want to use Address Field then turn off this ."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1651
+msgid "Latitude and Longitude"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1652
+msgid "Turn On/OFF Latitude and Longitude from Ads Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1653
+msgid ""
+"If You dont want user put Latitude and Longitude while posting ads then just "
+"turn OFF this option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1659
+msgid "Google MAP on Post Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1660
+msgid "Turn On/OFF Google MAP from Ads Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1661
+msgid ""
+"If You want to hide Google MAP from Submit Ads Page And Single Ads Page Then "
+"Turn OFF this Option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1667
+msgid "Ad Location Section"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1668
+msgid "Ad Location On/OFF"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1669
+msgid ""
+"If you want remove Ad Locations section completly then Turn Off this option, "
+"It will remove Country, States,City, Address, Google Latitude, Google "
+"Longitude and Google MAP Option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1675
+msgid "Video Box on Post Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1676
+msgid "Turn On/OFF Video Box on Post Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1677
+msgid ""
+"If you dont want to allow users to add video iframe or link in ads then just "
+"turn off this option"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1683 template-edit-post.php:149
+#: template-submit-ads-v2.php:649 template-submit-ads.php:624
+msgid "Item Condition"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1684
+msgid "Turn On/OFF Item Condition from Ads Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1685
+msgid ""
+"If You dont want to use Item Condition at Submit Page Then Turn OFF this "
+"Option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1691
+msgid "Select Currecny"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1692
+msgid "Ads Posts"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1694
+msgid ""
+"If you want to run your website only in one country then just select Single "
+"Currency. If you will select Multi Currecny then On Submit Ad Page there "
+"will be a dropdown from where user can select currecny tag."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1700 ReduxFramework/theme-options.php:1701
+#: ReduxFramework/theme-options.php:1820 ReduxFramework/theme-options.php:1821
+msgid "Currency Tag"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1702
+msgid "Select default selected currency in dropdown"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1822
+msgid "Put Your Own Currecny Symbol or HTML code to display"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1829
+msgid "Currency Tag Display"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1830
+msgid "Select option"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1831
+msgid "You want to show currecny tag on left or right with post price??"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1840
+msgid "Pages"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1848
+msgid "Login Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1849 ReduxFramework/theme-options.php:1858
+#: ReduxFramework/theme-options.php:1867 ReduxFramework/theme-options.php:1876
+#: ReduxFramework/theme-options.php:1885 ReduxFramework/theme-options.php:1894
+#: ReduxFramework/theme-options.php:1903 ReduxFramework/theme-options.php:1912
+#: ReduxFramework/theme-options.php:1921 ReduxFramework/theme-options.php:1930
+#: ReduxFramework/theme-options.php:1939 ReduxFramework/theme-options.php:1948
+#: ReduxFramework/theme-options.php:1957 ReduxFramework/theme-options.php:1966
+#: ReduxFramework/theme-options.php:1975 ReduxFramework/theme-options.php:1984
+#: ReduxFramework/theme-options.php:1993 ReduxFramework/theme-options.php:2111
+#: ReduxFramework/theme-options.php:2121 ReduxFramework/theme-options.php:2131
+#: ReduxFramework/theme-options.php:2141 ReduxFramework/theme-options.php:2151
+#: ReduxFramework/theme-options.php:2161 ReduxFramework/theme-options.php:2171
+#: ReduxFramework/theme-options.php:2181 ReduxFramework/theme-options.php:2191
+#: ReduxFramework/theme-options.php:2201 ReduxFramework/theme-options.php:2211
+#: ReduxFramework/theme-options.php:2442 ReduxFramework/theme-options.php:2462
+#: ReduxFramework/theme-options.php:2482 ReduxFramework/theme-options.php:2502
+#: ReduxFramework/theme-options.php:2522 ReduxFramework/theme-options.php:2542
+#: ReduxFramework/theme-options.php:2562 ReduxFramework/theme-options.php:2582
+msgid "This must be an URL."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1850
+msgid "Create page by selecting Login template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1857
+msgid "Register Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1859
+msgid "Create page by selecting Register template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1866
+msgid "Profile Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1868 ReduxFramework/theme-options.php:1877
+msgid "Create page by selecting Profile template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1875
+msgid "Profile Settings Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1884
+msgid "Submit Ad Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1886
+msgid "Create page by selecting Submit template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1893
+msgid "Edit Ad Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1895
+msgid "Create page by selecting Edit Ad template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1902
+msgid "Pricing Plans Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1904
+msgid "Create page by selecting Pricing Plan template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1911
+msgid "All Categories Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1913
+msgid "Create page by selecting All Categories template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1920
+msgid "All Ads Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1922
+msgid "Create page by selecting All Ads template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1929
+msgid "Single User All Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1931
+msgid ""
+"Create page by selecting Single User All Ads template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1938
+msgid "Single User Plans"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1940
+msgid ""
+"Create page by selecting Single User All Plans template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1947
+msgid "Inbox Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1949
+msgid "Create page by selecting inbox template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1956
+msgid "Single User All Favourite"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1958
+msgid "Create page by selecting Favorite Ads template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1965
+msgid "Single User All Follower"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1967
+msgid "Create page by selecting Follow template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1974
+msgid "Reset Password Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1976
+msgid ""
+"Create page by selecting Reset Password Page template and insert url here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1983
+msgid "Terms And Conditions URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1985
+msgid "This Link will be shown at registration page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1992
+msgid "WooCommerece Cart URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:1994
+msgid "Please Put Woo Commerece URL here"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2002 ReduxFramework/theme-options.php:2004
+msgid "Color Selection"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2010
+msgid "Primary Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2011
+msgid "Pick a Primary Color default: #e96969."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2019
+msgid "Secondary Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2020
+msgid "Pick a Secondary Color default: #232323."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2028
+msgid "Topbar Background Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2029
+msgid "Pick a color for topbar Background default: #444444."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2037
+msgid "Navbar Background Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2038
+msgid "Pick a color for Navbar Background default: #fafafa."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2046
+msgid "Navbar Text Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2047
+msgid "Pick a color for Navbar Text default: #444444."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2055
+msgid "Footer Tags Background Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2056
+msgid "Pick a color for Footer tags Background default: #444444."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2064
+msgid "Footer Tags Text Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2065
+msgid "Pick a color for Footer tags Text default: #ffffff."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2073
+msgid "Footer Tags Hover Text Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2074
+msgid "Pick a color for Footer tags Hover Text default: #ffffff."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2082
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2083
+msgid "Pick a color for Footer Bottom Background default: #444444."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2091
+msgid "Footer Bottom Text Color"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2092
+msgid "Pick a color for Footer Bottom text default: #8e8e8e."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2102
+msgid "Social Links"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2104
+msgid "Put Social Links"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2110 ReduxFramework/theme-options.php:2112
+msgid "Facebook Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2120 ReduxFramework/theme-options.php:2122
+msgid "Twitter Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2130 ReduxFramework/theme-options.php:2132
+msgid "Dribbble Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2140 ReduxFramework/theme-options.php:2142
+msgid "Flickr Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2150 ReduxFramework/theme-options.php:2152
+msgid "Github Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2160 ReduxFramework/theme-options.php:2162
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2170 ReduxFramework/theme-options.php:2172
+msgid "Youtube Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2180 ReduxFramework/theme-options.php:2182
+msgid "Google+ Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2190 ReduxFramework/theme-options.php:2192
+msgid "LinkedIn Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2200 ReduxFramework/theme-options.php:2202
+msgid "Instagram Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2210 ReduxFramework/theme-options.php:2212
+msgid "Vimeo Page URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2223
+msgid "Advertisement"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2225
+msgid ""
+"Advertisement Section, If you want to use image ads then please upload "
+"banner image and put website URL, but if you want to use google ads then "
+"images ads option must need to be empty."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2229
+msgid "Home Page Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2234
+msgid "Put HomePage Ads Here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2240
+msgid "Home Page First banner Image Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2243 ReduxFramework/theme-options.php:2271
+#: ReduxFramework/theme-options.php:2299 ReduxFramework/theme-options.php:2336
+#: ReduxFramework/theme-options.php:2364
+msgid "Upload your Ad Image."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2244 ReduxFramework/theme-options.php:2272
+#: ReduxFramework/theme-options.php:2300
+msgid "Ad Image"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2250
+msgid "Home Page First banner Image URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2251 ReduxFramework/theme-options.php:2279
+#: ReduxFramework/theme-options.php:2307
+msgid "link URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2252 ReduxFramework/theme-options.php:2280
+#: ReduxFramework/theme-options.php:2308 ReduxFramework/theme-options.php:2345
+msgid ""
+"You can add URL here so when user will click on that image then user will "
+"goes to that link."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2259 ReduxFramework/theme-options.php:2287
+#: ReduxFramework/theme-options.php:2315
+msgid "HTML Ads Or Google Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2260 ReduxFramework/theme-options.php:2288
+#: ReduxFramework/theme-options.php:2316
+msgid "HTML ads for HomePage"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2261
+msgid "Put your HTML or Google Ads Code for First banner here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2268
+msgid "Home Page second banner Image Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2278
+msgid "Home Page second banner Image URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2289
+msgid "Put your HTML or Google Ads Code for second banner on home here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2296
+msgid "Home Page third banner Image Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2306
+msgid "Home Page third banner Image URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2317
+msgid "Put your HTML or Google Ads Code for third banner on home here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2323
+msgid "Other Ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2325
+msgid ""
+"If you want to use image ads then please upload banner image and put website "
+"URL, but if you want to use google ads then images ads option must need to "
+"be empty."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2333 ReduxFramework/theme-options.php:2337
+msgid "Single Post Page Ad img"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2343 ReduxFramework/theme-options.php:2344
+msgid "Single Post Ad link URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2352
+msgid "HTML Ads Or Google Ads for Single Post"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2353 ReduxFramework/theme-options.php:2381
+msgid "Google ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2354 ReduxFramework/theme-options.php:2382
+msgid "Put your HTML or Google Ads Code here."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2361
+msgid " Location & category page Ad"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2365
+msgid "Upload your Ad Image"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2371
+msgid "Location & category page Ad link URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2372
+msgid "Ad link URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2373
+msgid "You can add URL."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2380
+msgid "HTML or Google ads (Location & category page)"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2389
+msgid "Partners"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2391
+msgid "Upload Partners Logos"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2397
+msgid "Partners Slider"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2399
+msgid ""
+"This setting will work only on inner pages, If you want to turn OFF from "
+"HomePage then Please visit LayOut Manager tab."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2405
+msgid "Partners Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2414 ReduxFramework/theme-options.php:2415
+msgid "Partner Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2416
+msgid "Partner Sections Title."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2422 ReduxFramework/theme-options.php:2423
+msgid "Partner Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2424
+msgid "Replace Your Partner Section Description"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2431
+msgid "Partner One"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2434 ReduxFramework/theme-options.php:2454
+#: ReduxFramework/theme-options.php:2474 ReduxFramework/theme-options.php:2494
+#: ReduxFramework/theme-options.php:2514 ReduxFramework/theme-options.php:2534
+#: ReduxFramework/theme-options.php:2554 ReduxFramework/theme-options.php:2574
+msgid "Upload your logo."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2441 ReduxFramework/theme-options.php:2443
+msgid "Partner One URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2451
+msgid "Partner two"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2461 ReduxFramework/theme-options.php:2463
+msgid "Partner two URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2471
+msgid "Partner three"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2481 ReduxFramework/theme-options.php:2483
+msgid "Partner three URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2491
+msgid "Partner four"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2501 ReduxFramework/theme-options.php:2503
+msgid "Partner four URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2511
+msgid "Partner five"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2521 ReduxFramework/theme-options.php:2523
+msgid "Partner five URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2531
+msgid "Partner six"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2541 ReduxFramework/theme-options.php:2543
+msgid "Partner six URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2551
+msgid "Partner seven"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2561 ReduxFramework/theme-options.php:2563
+msgid "Partner seven URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2571
+msgid "Partner eight"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2581 ReduxFramework/theme-options.php:2583
+msgid "Partner eight URL"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2593
+msgid "Translate"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2600
+msgid "New Post Posted"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2601 ReduxFramework/theme-options.php:2609
+#: ReduxFramework/theme-options.php:2617
+msgid "Translate Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2602
+msgid "Replace New Post Has been Posted"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2608
+msgid "Welcome Email Title"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2610
+msgid "Replace Welcome Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2616
+msgid "Published Post Notification"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2618
+msgid "Replace Your Listing has been published"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2625
+msgid "Fonts"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2627
+msgid "Select Fonts for your Website"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2633
+msgid "H1 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2634 ReduxFramework/theme-options.php:2650
+#: ReduxFramework/theme-options.php:2666 ReduxFramework/theme-options.php:2682
+#: ReduxFramework/theme-options.php:2698 ReduxFramework/theme-options.php:2714
+msgid "Specify the headings font properties."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2649
+msgid "H2 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2665
+msgid "H3 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2681
+msgid "H4 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2697
+msgid "H5 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2713
+msgid "H6 Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2729
+msgid "Body Font"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2730
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2744 ReduxFramework/theme-options.php:2747
+msgid "Google Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2752
+msgid "Select Ads type"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2753
+msgid "Which ads you want to show??"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2754
+msgid ""
+"Which type of ads you want to show on Google MAP on Home? On search result "
+"page all ads will be display."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2761
+msgid "How Many ads"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2762
+msgid "Put a number"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2763
+msgid ""
+"How many ads you want to show on Google MAP (MAP on header), On Search "
+"result page count will shown from search query."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2769
+msgid "Google MAP on Search Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2770
+msgid "Turn Map On/OFF from Search result page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2771
+msgid ""
+"If you dont like Google MAP on search result page then just turn OFF this "
+"option."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2777 ReduxFramework/theme-options.php:2778
+msgid "Google API Key"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2779
+msgid ""
+"Put Google API Key here to run Google MAP. If you dont know how to get API "
+"key Please Visit  <a href=\"http://www.tthemes.com/get-google-api-key/\" "
+"target=\"_blank\">Google API Key</a>"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2785
+msgid "Google Analytics"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2786
+msgid "Google Analytics Script Code"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2787
+msgid "Get analytics on your site. Enter Google Analytics script code"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2793
+msgid "Map Styles"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2794
+msgid ""
+"Check <a href=\"http://snazzymaps.com/\" target=\"_blank\">snazzymaps.com</"
+"a> for a list of nice google map styles."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2795
+msgid "Ad here your google map style."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2812
+msgid "Coming Soon Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2814
+msgid "Coming Soon Page Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2821
+msgid "Coming Soon logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2824
+msgid "Upload Coming Soon template logo."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2825
+msgid "Upload Coming Soon template logo"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2832 ReduxFramework/theme-options.php:2836
+msgid "Coming Soon BG"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2835
+msgid "Upload Coming Soon template Background."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2842 ReduxFramework/theme-options.php:2843
+#: ReduxFramework/theme-options.php:2844
+msgid "Coming Soon Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2850
+msgid "Replace Days text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2851 ReduxFramework/theme-options.php:2852
+msgid "Days text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2858
+msgid "Replace Hours text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2859 ReduxFramework/theme-options.php:2860
+msgid "Hours text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2866
+msgid "Replace Minutes text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2867 ReduxFramework/theme-options.php:2868
+msgid "Minutes text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2874
+msgid "Replace Seconds text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2875 ReduxFramework/theme-options.php:2876
+msgid "Seconds text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2882
+msgid "Month"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2883
+msgid "Select Month."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2890 inc/woo.php:194
+#: template-user-plans.php:94 template-user-plans.php:152
+#: template-user-plans.php:194
+msgid "Days"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2891
+msgid "Select Days."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2898 ReduxFramework/theme-options.php:2900
+msgid "Years"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2899
+msgid "Put Years Example: 2016."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2906 ReduxFramework/theme-options.php:2908
+msgid "Copyright Text"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2907
+msgid "Copyright Text for Coming Soon Page."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2915
+msgid "Contact Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2918
+msgid "Contact Page Settings"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2923
+msgid "Map On Contact Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2924
+msgid "Turn Map On/OFF from Contact Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2930
+msgid "Email display on Contact Page"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2931
+msgid "Turn OFF Email display"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2937 ReduxFramework/theme-options.php:2939
+msgid "Your email address"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2938
+msgid "This must be an email address."
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2947 ReduxFramework/theme-options.php:2948
+#: ReduxFramework/theme-options.php:2949
+msgid "Email error message"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2956 ReduxFramework/theme-options.php:2957
+#: ReduxFramework/theme-options.php:2958
+msgid "Name error message"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2965 ReduxFramework/theme-options.php:2966
+#: ReduxFramework/theme-options.php:2967
+msgid "Message error"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2974 ReduxFramework/theme-options.php:2975
+#: ReduxFramework/theme-options.php:2976
+msgid "Thank you message"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2983 ReduxFramework/theme-options.php:2984
+#: ReduxFramework/theme-options.php:2985 inc/post_meta.php:167
+#: template-edit-post.php:149 template-submit-ads-v2.php:862
+#: template-submit-ads.php:830
+msgid "Latitude"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:2992 ReduxFramework/theme-options.php:2993
+#: ReduxFramework/theme-options.php:2994 inc/post_meta.php:212
+#: template-edit-post.php:149 template-submit-ads-v2.php:868
+#: template-submit-ads.php:836
+msgid "Longitude"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3001 ReduxFramework/theme-options.php:3002
+#: ReduxFramework/theme-options.php:3003
+msgid "Zoom level"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3009 ReduxFramework/theme-options.php:3010
+#: ReduxFramework/theme-options.php:3011
+msgid "Contact Page Address"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3017 ReduxFramework/theme-options.php:3018
+#: ReduxFramework/theme-options.php:3019
+msgid "Contact Page Phone"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3025 ReduxFramework/theme-options.php:3026
+#: ReduxFramework/theme-options.php:3027
+msgid "Contact Page Phone Second"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3151
+msgid "Section via hook"
+msgstr ""
+
+#: ReduxFramework/theme-options.php:3152
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: archive-blog.php:30 taxonomy-blog_category.php:43 template-blog.php:59
+msgid "Sorry Nothing Found"
+msgstr ""
+
+#: archive.php:69 author.php:298 author.php:361 template-all-posts.php:63
+#: template-all-posts.php:139 template-all-posts.php:213
+#: template-all-posts.php:287 template-all-posts.php:371
+#: template-all-posts.php:442 template-all-posts.php:510
+#: template-all-premium.php:63 templates/adv/advstyle1.php:48
+msgid "Total ads"
+msgstr ""
+
+#: archive.php:72 template-all-posts.php:66 template-all-posts.php:142
+#: template-all-posts.php:216 template-all-posts.php:290
+#: template-all-posts.php:374 template-all-posts.php:445
+#: template-all-posts.php:513 template-all-premium.php:66
+#: templates/adv/advstyle1.php:51 templates/categoriesstyle/catstyle1.php:68
+#: templates/categoriesstyle/catstyle2.php:76
+#: templates/categoriesstyle/catstyle6.php:83
+#: templates/category/catstyle1.php:68 templates/category/catstyle2.php:82
+msgid "ads posted"
+msgstr ""
+
+#: archive.php:79 search.php:413 search.php:566 search.php:714 search.php:862
+#: single-countries.php:82 single-countries.php:157 single-countries.php:229
+#: single-countries.php:302 template-all-posts.php:73
+#: template-all-posts.php:149 template-all-posts.php:223
+#: template-all-posts.php:298 template-all-premium.php:73
+#: template-all-premium.php:145 template-all-premium.php:214
+#: template-all-premium.php:284 template-locations.php:106
+#: template-locations.php:183 template-locations.php:372
+#: template-locations.php:563 templates/adv/advstyle1.php:58
+#: templates/adv/advstyle2.php:49 templates/adv/advstyle3.php:55
+#: templates/adv/advstyle4.php:60 templates/catinner/style2.php:29
+#: templates/catinner/style3.php:35 templates/catinner/style4.php:40
+msgid "View as"
+msgstr ""
+
+#: assets/menu.php:5
+msgid "Primary Menu"
+msgstr ""
+
+#: assets/menu.php:6
+msgid "Mobile Menu"
+msgstr ""
+
+#: assets/menu.php:7
+msgid "Footer Menu"
+msgstr ""
+
+#: assets/reg-sidebar.php:13
+msgid "Pages Sidebar"
+msgstr ""
+
+#: assets/reg-sidebar.php:15 assets/reg-sidebar.php:45
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: assets/reg-sidebar.php:23 assets/reg-sidebar.php:33
+msgid "Footer Widget "
+msgstr ""
+
+#: assets/reg-sidebar.php:25 assets/reg-sidebar.php:35
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: assets/reg-sidebar.php:43
+msgid "Forum Widget Area"
+msgstr ""
+
+#: assets/reg-sidebar.php:52
+msgid "Single Ad Sidebar"
+msgstr ""
+
+#: assets/reg-sidebar.php:54
+msgid "Appears on Ad Details Sidebar."
+msgstr ""
+
+#: assets/reg-sidebar.php:62
+msgid "Blog Sidebar"
+msgstr ""
+
+#: assets/reg-sidebar.php:64
+msgid "Appears on Blog sidebar."
+msgstr ""
+
+#: assets/reg-sidebar.php:71
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: assets/reg-sidebar.php:73
+msgid "Appears on only woocommerce single product page"
+msgstr ""
+
+#: assets/requried-plugins.php:24
+msgid "Redux Framework"
+msgstr ""
+
+#: assets/requried-plugins.php:99 inc/class-tgm-plugin-activation.php:324
+msgid "Install Required Plugins"
+msgstr ""
+
+#: assets/requried-plugins.php:100 inc/class-tgm-plugin-activation.php:325
+msgid "Install Plugins"
+msgstr ""
+
+#: assets/requried-plugins.php:101 inc/class-tgm-plugin-activation.php:326
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: assets/requried-plugins.php:102 inc/class-tgm-plugin-activation.php:327
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: assets/requried-plugins.php:104 inc/class-tgm-plugin-activation.php:329
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:109 inc/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:114 inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:119 inc/class-tgm-plugin-activation.php:344
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:124 inc/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:129 inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:134 inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:139 inc/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:144 inc/class-tgm-plugin-activation.php:369
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:149 inc/class-tgm-plugin-activation.php:374
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:154 inc/class-tgm-plugin-activation.php:379
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:159 inc/class-tgm-plugin-activation.php:384
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: assets/requried-plugins.php:163 inc/class-tgm-plugin-activation.php:388
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: assets/requried-plugins.php:164 inc/class-tgm-plugin-activation.php:389
+msgid "Return to the dashboard"
+msgstr ""
+
+#: assets/requried-plugins.php:165 inc/class-tgm-plugin-activation.php:390
+#: inc/class-tgm-plugin-activation.php:3014
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: assets/requried-plugins.php:166 inc/class-tgm-plugin-activation.php:391
+#: inc/class-tgm-plugin-activation.php:2817
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: assets/requried-plugins.php:167 inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: assets/requried-plugins.php:168 inc/class-tgm-plugin-activation.php:393
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: assets/requried-plugins.php:169 inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: assets/requried-plugins.php:170 inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/requried-plugins.php:171 inc/class-tgm-plugin-activation.php:396
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: author.php:147 single.php:666 template-follow.php:96 template-follow.php:143
+#: templates/profile/userabout.php:70 templates/singlev2.php:173
+msgid "Member Since"
+msgstr ""
+
+#: author.php:150 templates/profile/userabout.php:72
+msgid "Offline"
+msgstr ""
+
+#: author.php:152 templates/profile/userabout.php:74
+msgid "Online"
+msgstr ""
+
+#: author.php:161 template-profile.php:115
+msgid "Social profile Links"
+msgstr ""
+
+#: author.php:239 single.php:686 template-edit-profile.php:242
+#: template-profile.php:76 templates/singlev2.php:192
+msgid "Contact Details"
+msgstr ""
+
+#: author.php:301 author.php:364
+msgid "Ads Posted"
+msgstr ""
+
+#: author.php:308 author.php:371 templates/catinner/style1.php:38
+msgid "View As"
+msgstr ""
+
+#: comments.php:20
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: comments.php:24
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:64
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:65
+msgid "Your email address will not be published. required fields are marked"
+msgstr ""
+
+#: comments.php:67 inc/class-wp-bootstrap-comment-walker.php:88
+msgid "Success! Thanks for your comment. We appreciate your response."
+msgstr ""
+
+#: comments.php:70 inc/class-wp-bootstrap-comment-walker.php:91
+msgid "You might have left one of the fields blank, or be posting too quickly"
+msgstr ""
+
+#: comments.php:80 inc/class-wp-bootstrap-comment-walker.php:98
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:82 inc/class-wp-bootstrap-comment-walker.php:100
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:82 inc/class-wp-bootstrap-comment-walker.php:100
+msgid "Log out &raquo;"
+msgstr ""
+
+#: comments.php:86 inc/class-wp-bootstrap-comment-walker.php:104 single.php:758
+msgid "Name"
+msgstr ""
+
+#: comments.php:88 inc/class-wp-bootstrap-comment-walker.php:106
+msgid "Enter name"
+msgstr ""
+
+#: comments.php:88 inc/class-wp-bootstrap-comment-walker.php:106
+msgid "name required"
+msgstr ""
+
+#: comments.php:93 inc/class-wp-bootstrap-comment-walker.php:111 single.php:764
+#: template-contact.php:183 templates/top-bar.php:109
+msgid "Email"
+msgstr ""
+
+#: comments.php:95 inc/class-wp-bootstrap-comment-walker.php:113
+msgid "Enter email"
+msgstr ""
+
+#: comments.php:95 inc/class-wp-bootstrap-comment-walker.php:113
+#: template-login-v2.php:326 template-login-v2.php:369
+msgid "email required"
+msgstr ""
+
+#: comments.php:100 inc/class-wp-bootstrap-comment-walker.php:118
+msgid "Website"
+msgstr ""
+
+#: comments.php:102 inc/class-wp-bootstrap-comment-walker.php:120
+msgid "enter website url"
+msgstr ""
+
+#: comments.php:107 inc/class-wp-bootstrap-comment-walker.php:125
+#: template-contact.php:206 templates/profile/userabout.php:125
+msgid "Message"
+msgstr ""
+
+#: comments.php:109 inc/class-wp-bootstrap-comment-walker.php:127
+#: single.php:567
+msgid "Type your comment here"
+msgstr ""
+
+#: comments.php:109 inc/class-wp-bootstrap-comment-walker.php:127
+msgid "Type your comment here..."
+msgstr ""
+
+#: comments.php:116 inc/class-wp-bootstrap-comment-walker.php:136
+msgid "Send"
+msgstr ""
+
+#: comments.php:116 inc/class-wp-bootstrap-comment-walker.php:136
+msgid "Post Comment"
+msgstr ""
+
+#: content.php:26 templates/blog-loop.php:26
+msgid "Read More"
+msgstr ""
+
+#: footer.php:70 templates/top-bar.php:140 templates/top-bar.php:221
+msgid "Follow Us"
+msgstr ""
+
+#: footer.php:129
+msgid "Back to top"
+msgstr ""
+
+#: functions.php:67 single.php:337 template-contact.php:191
+msgid "Phone"
+msgstr ""
+
+#: functions.php:68
+msgid "Mobile"
+msgstr ""
+
+#: functions.php:70 template-edit-post.php:149 template-edit-profile.php:295
+#: template-submit-ads-v2.php:838 template-submit-ads.php:806
+msgid "Address"
+msgstr ""
+
+#: functions.php:72 template-edit-profile.php:308
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:73 template-edit-profile.php:317
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:74 template-edit-profile.php:326
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:75 template-edit-profile.php:353
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:76 template-edit-profile.php:344
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:77
+msgid "vimeo"
+msgstr ""
+
+#: functions.php:78
+msgid "YouTube"
+msgstr ""
+
+#: functions.php:79
+msgid "Country"
+msgstr ""
+
+#: functions.php:80 single.php:323
+msgid "State"
+msgstr ""
+
+#: functions.php:81 single.php:330
+msgid "City"
+msgstr ""
+
+#: functions.php:82
+msgid "Postcode"
+msgstr ""
+
+#: functions.php:211
+msgctxt "Source Sans Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:217
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:257
+msgid "Icon Code"
+msgstr ""
+
+#: functions.php:261
+msgid "AwesomeFont code"
+msgstr ""
+
+#: functions.php:267
+msgid "Woo Commerce product ID"
+msgstr ""
+
+#: functions.php:270
+msgid ""
+"First create Woo Commerce product and set price there, Here you just need to "
+"put woocommerce product id."
+msgstr ""
+
+#: functions.php:274
+msgid "How many days"
+msgstr ""
+
+#: functions.php:277
+msgid ""
+"How many days ads will be shown in featured place? Put a number like 5 or 10 "
+"or 30 or 60 etc."
+msgstr ""
+
+#: functions.php:282
+msgid "Category Image"
+msgstr ""
+
+#: functions.php:352
+msgid "Icon Background Color"
+msgstr ""
+
+#: functions.php:371
+msgid "Map Pin"
+msgstr ""
+
+#: functions.php:540
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:558
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:562
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:566
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:589
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:592
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: functions.php:593
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:608
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:614 functions.php:620
+msgid ","
+msgstr ""
+
+#: functions.php:629
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:645
+#, php-format
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: functions.php:651
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:841
+msgid "Categories Custom Fields"
+msgstr ""
+
+#: functions.php:851
+msgid "Select category:"
+msgstr ""
+
+#: functions.php:861
+msgid "Select Category"
+msgstr ""
+
+#: functions.php:916
+msgid "Add Custom Fields to: "
+msgstr ""
+
+#: functions.php:921 functions.php:997
+msgid "Custom field title"
+msgstr ""
+
+#: functions.php:922 functions.php:998
+msgid "Input Type:"
+msgstr ""
+
+#: functions.php:924 functions.php:1000 template-profile.php:264
+#: template-user-all-ads.php:162
+msgid "Delete"
+msgstr ""
+
+#: functions.php:1418 functions.php:1452
+msgid "No more posts"
+msgstr ""
+
+#: functions.php:1419 functions.php:1443
+msgid "Loading posts ..."
+msgstr ""
+
+#: functions.php:1420
+msgid "Load More "
+msgstr ""
+
+#: functions.php:1434
+msgid "load more"
+msgstr ""
+
+#: functions.php:1531
+msgid "Follow"
+msgstr ""
+
+#: functions.php:1540
+msgid "Unfollow"
+msgstr ""
+
+#: functions.php:1597
+msgid "Watch Later"
+msgstr ""
+
+#: functions.php:1603
+msgid "Browse Favourites"
+msgstr ""
+
+#: functions.php:1615
+msgid "unfavorite"
+msgstr ""
+
+#: functions.php:1639
+msgid "out of 5"
+msgstr ""
+
+#: functions.php:1678
+msgid "Location Image"
+msgstr ""
+
+#: functions.php:1792
+msgid "Administrator"
+msgstr ""
+
+#: functions.php:1794
+msgid "Contributor"
+msgstr ""
+
+#: functions.php:1796
+msgid "Subscriber"
+msgstr ""
+
+#: functions.php:1798
+msgid "Author"
+msgstr ""
+
+#: functions.php:1800
+msgid "Editor"
+msgstr ""
+
+#: functions.php:1802
+msgid "User"
+msgstr ""
+
+#: functions.php:1812
+msgid "Publish"
+msgstr ""
+
+#: functions.php:1814
+msgid "Pending"
+msgstr ""
+
+#: functions.php:1816
+msgid "Draft"
+msgstr ""
+
+#: functions.php:1818
+msgid "Auto draft"
+msgstr ""
+
+#: functions.php:1820
+msgid "Future"
+msgstr ""
+
+#: functions.php:1822
+msgid "Private"
+msgstr ""
+
+#: functions.php:1824
+msgid "Inherit"
+msgstr ""
+
+#: functions.php:1826
+msgid "Trash"
+msgstr ""
+
+#: functions.php:1828
+msgid "Rejected"
+msgstr ""
+
+#: functions.php:1830
+msgid "None"
+msgstr ""
+
+#: functions.php:1856 functions.php:1861
+#: inc/class-wp-bootstrap-comment-walker.php:61
+msgid "Said"
+msgstr ""
+
+#: functions.php:1883 templates/classiera-adv-search.php:364
+msgid "Wanted"
+msgstr ""
+
+#: functions.php:1885 templates/classiera-adv-search.php:361
+msgid "For Sale"
+msgstr ""
+
+#: functions.php:1887 template-edit-post.php:149
+msgid "Sold"
+msgstr ""
+
+#: functions.php:1889
+msgid "For rent"
+msgstr ""
+
+#: functions.php:1891 templates/classiera-adv-search.php:370
+msgid "For hire"
+msgstr ""
+
+#: functions.php:1927 functions.php:1934 functions.php:1941 functions.php:1947
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: functions.php:2077
+msgid "Verified"
+msgstr ""
+
+#: header.php:90 templates/nav-bar.php:98 templates/nav-bar.php:216
+#: templates/nav-bar.php:458 templates/top-bar.php:128
+#: templates/top-bar.php:168 templates/top-bar.php:192
+msgid "Log out"
+msgstr ""
+
+#: header.php:96 header.php:115 templates/nav-bar.php:115
+#: templates/nav-bar.php:233 templates/nav-bar.php:392
+#: templates/nav-bar.php:417 templates/nav-bar.php:421
+#: templates/nav-bar.php:435 templates/nav-bar.php:444
+#: templates/nav-bar.php:469 templates/top-bar.php:164
+#: templates/top-bar.php:181
+msgid "Submit Ad"
+msgstr ""
+
+#: header.php:102 templates/nav-bar.php:95 templates/nav-bar.php:213
+#: templates/nav-bar.php:431 templates/nav-bar.php:440
+#: templates/nav-bar.php:455 templates/top-bar.php:125
+#: templates/top-bar.php:160 templates/top-bar.php:190
+#: templates/top-bar.php:208
+msgid "My Account"
+msgstr ""
+
+#: header.php:109 template-login.php:68 templates/nav-bar.php:102
+#: templates/nav-bar.php:220 templates/nav-bar.php:433
+#: templates/nav-bar.php:442 templates/nav-bar.php:462
+#: templates/top-bar.php:131 templates/top-bar.php:173
+#: templates/top-bar.php:195 templates/top-bar.php:215
+msgid "Login"
+msgstr ""
+
+#: header.php:121 templates/nav-bar.php:105 templates/nav-bar.php:223
+#: templates/nav-bar.php:465 templates/top-bar.php:134
+#: templates/top-bar.php:177 templates/top-bar.php:197
+msgid "Get Registered"
+msgstr ""
+
+#: inc/BFI_Thumb.php:145
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: inc/BFI_Thumb.php:273
+msgid "Image rotate failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:296
+msgid "Image opacity change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:383
+msgid "Image color change failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:400
+msgid "Image grayscale failed."
+msgstr ""
+
+#: inc/BFI_Thumb.php:417
+msgid "Image negate failed."
+msgstr ""
+
+#: inc/back-compat.php:38 inc/back-compat.php:50 inc/back-compat.php:65
+#, php-format
+msgid ""
+"Classiera requires at least WordPress version 4.4. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/breadcrumbs.php:13
+msgid "Archive for"
+msgstr ""
+
+#: inc/breadcrumbs.php:14
+msgid "Search Results for"
+msgstr ""
+
+#: inc/breadcrumbs.php:15
+msgid "Posts Tagged"
+msgstr ""
+
+#: inc/breadcrumbs.php:16
+msgid "Posted By"
+msgstr ""
+
+#: inc/breadcrumbs.php:17
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:170
+msgid "Page"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:515
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:516
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:629
+msgid "The tgmpa_admin_menu_use_add_theme_page filter is deprecated."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:818
+#: inc/class-tgm-plugin-activation.php:3423
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:925
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:925
+#: inc/class-tgm-plugin-activation.php:928
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:928
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1106
+#: inc/class-tgm-plugin-activation.php:2813
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1866
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2152
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2155
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2171
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2174
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2194
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2198
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2200
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2206
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2209
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2212
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2220
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2265
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/class-tgm-plugin-activation.php:2268
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/class-tgm-plugin-activation.php:2271
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/class-tgm-plugin-activation.php:2274
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/class-tgm-plugin-activation.php:2356
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2364
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2372
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2384
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2407
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2421
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2422
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2423
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2428 template-user-plans.php:61
+#: template-user-plans.php:129
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2476
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2480
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2555
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2588
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2594
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2597
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2630
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2666
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2668
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2773
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2799
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3013
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3347
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3349
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3350
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3354
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3355
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3355
+#: inc/class-tgm-plugin-activation.php:3361
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3355
+#: inc/class-tgm-plugin-activation.php:3361
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3356
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3360
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3361
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3363
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-wp-bootstrap-comment-walker.php:62
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/class-wp-bootstrap-comment-walker.php:66
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/class-wp-bootstrap-comment-walker.php:74
+msgid "Reply to comment"
+msgstr ""
+
+#: inc/class-wp-bootstrap-comment-walker.php:82
+msgid "close reply"
+msgstr ""
+
+#: inc/classiera-ajax.php:20
+msgid " in All Categories"
+msgstr ""
+
+#: inc/classiera-ajax.php:21 templates/searchbar/searchstyle3.php:68
+msgid "in"
+msgstr ""
+
+#: inc/classiera-ajax.php:79
+msgid "No Result found related your search"
+msgstr ""
+
+#: inc/classiera-ajax.php:101
+msgid "Select Sub Category.."
+msgstr ""
+
+#: inc/classiera-ajax.php:104
+msgid "No Sub Category Found"
+msgstr ""
+
+#: inc/classiera-ajax.php:177
+msgid "Select Feature"
+msgstr ""
+
+#: inc/classiera-ajax.php:185 template-edit-post.php:149
+msgid "Extra Fields For"
+msgstr ""
+
+#: inc/classiera-ajax.php:225
+msgid "Author Verification"
+msgstr ""
+
+#: inc/classiera-ajax.php:226
+msgid "Please Copy your Verification Code : "
+msgstr ""
+
+#: inc/classiera-ajax.php:236
+msgid "Congratulations"
+msgstr ""
+
+#: inc/classiera-ajax.php:236
+msgid "Your Account Verified Now"
+msgstr ""
+
+#: inc/classiera-ajax.php:240
+msgid "Warning"
+msgstr ""
+
+#: inc/classiera-ajax.php:240
+msgid "Author Verification failed"
+msgstr ""
+
+#: inc/classiera-ajax.php:261
+msgid "You must need to login"
+msgstr ""
+
+#: inc/classiera-ajax.php:263
+msgid "Sorry you are author of this ad & ad author cant post bid."
+msgstr ""
+
+#: inc/classiera-ajax.php:291
+msgid "Your offer have sent successfully, Check your inbox for more details."
+msgstr ""
+
+#: inc/classiera-ajax.php:342 inc/classiera-ajax.php:553
+#: template-message.php:170
+msgid "BID PRICE"
+msgstr ""
+
+#: inc/classiera-ajax.php:388 inc/classiera-ajax.php:509
+#: inc/classiera-ajax.php:545 template-message.php:160 template-message.php:333
+msgid "Ad Title"
+msgstr ""
+
+#: inc/classiera-ajax.php:388 inc/classiera-ajax.php:602
+#: template-message.php:226
+msgid "Type your message.."
+msgstr ""
+
+#: inc/classiera-ajax.php:388 inc/classiera-ajax.php:602
+#: template-message.php:228
+msgid "SEND"
+msgstr ""
+
+#: inc/classiera-ajax.php:399
+msgid "You must need to type some comment..!"
+msgstr ""
+
+#: inc/classiera-search.php:149
+msgid "Select Currency"
+msgstr ""
+
+#: inc/classiera-search.php:152
+msgid "US Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:155
+msgid "Canadian Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:158
+msgid "Euro"
+msgstr ""
+
+#: inc/classiera-search.php:161
+msgid "United Arab Emirates Dirham"
+msgstr ""
+
+#: inc/classiera-search.php:164
+msgid "Afghan Afghani"
+msgstr ""
+
+#: inc/classiera-search.php:167
+msgid "Albanian Lek"
+msgstr ""
+
+#: inc/classiera-search.php:170
+msgid "Armenian Dram"
+msgstr ""
+
+#: inc/classiera-search.php:173
+msgid "Argentine Peso"
+msgstr ""
+
+#: inc/classiera-search.php:176
+msgid "Australian Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:179
+msgid "Azerbaijani Manat"
+msgstr ""
+
+#: inc/classiera-search.php:182
+msgid "Bangladeshi Taka"
+msgstr ""
+
+#: inc/classiera-search.php:185
+msgid "Bulgarian Lev"
+msgstr ""
+
+#: inc/classiera-search.php:188
+msgid "Bahraini Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:191
+msgid "Brunei Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:194
+msgid "Bolivian Boliviano"
+msgstr ""
+
+#: inc/classiera-search.php:197
+msgid "Brazilian Real"
+msgstr ""
+
+#: inc/classiera-search.php:200
+msgid "Botswanan Pula"
+msgstr ""
+
+#: inc/classiera-search.php:203
+msgid "Belarusian Ruble"
+msgstr ""
+
+#: inc/classiera-search.php:206
+msgid "Belize Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:209
+msgid "Swiss Franc"
+msgstr ""
+
+#: inc/classiera-search.php:212
+msgid "Chilean Peso"
+msgstr ""
+
+#: inc/classiera-search.php:215
+msgid "Chinese Yuan"
+msgstr ""
+
+#: inc/classiera-search.php:218
+msgid "Colombian Peso"
+msgstr ""
+
+#: inc/classiera-search.php:221
+msgid "Costa Rican Colón"
+msgstr ""
+
+#: inc/classiera-search.php:224
+msgid "Cape Verdean Escudo"
+msgstr ""
+
+#: inc/classiera-search.php:227
+msgid "Czech Republic Koruna"
+msgstr ""
+
+#: inc/classiera-search.php:230
+msgid "Djiboutian Franc"
+msgstr ""
+
+#: inc/classiera-search.php:233
+msgid "Danish Krone"
+msgstr ""
+
+#: inc/classiera-search.php:236
+msgid "Dominican Peso"
+msgstr ""
+
+#: inc/classiera-search.php:239
+msgid "Algerian Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:242
+msgid "Egyptian Pound"
+msgstr ""
+
+#: inc/classiera-search.php:245
+msgid "Eritrean Nakfa"
+msgstr ""
+
+#: inc/classiera-search.php:248
+msgid "Ethiopian Birr"
+msgstr ""
+
+#: inc/classiera-search.php:251
+msgid "British Pound"
+msgstr ""
+
+#: inc/classiera-search.php:254
+msgid "Georgian Lari"
+msgstr ""
+
+#: inc/classiera-search.php:257
+msgid "Ghanaian Cedi"
+msgstr ""
+
+#: inc/classiera-search.php:260
+msgid "Guatemalan Quetzal"
+msgstr ""
+
+#: inc/classiera-search.php:263
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:266
+msgid "Honduran Lempira"
+msgstr ""
+
+#: inc/classiera-search.php:269
+msgid "Croatian Kuna"
+msgstr ""
+
+#: inc/classiera-search.php:272
+msgid "Hungarian Forint"
+msgstr ""
+
+#: inc/classiera-search.php:275
+msgid "Indonesian Rupiah"
+msgstr ""
+
+#: inc/classiera-search.php:278
+msgid "Israeli SheKel"
+msgstr ""
+
+#: inc/classiera-search.php:281
+msgid "Indian Rupee"
+msgstr ""
+
+#: inc/classiera-search.php:284
+msgid "Iraqi Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:287
+msgid "Iranian Rial"
+msgstr ""
+
+#: inc/classiera-search.php:290
+msgid "Icelandic Króna"
+msgstr ""
+
+#: inc/classiera-search.php:293
+msgid "Jamaican Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:296
+msgid "Jordanian Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:299
+msgid "Japanese Yen"
+msgstr ""
+
+#: inc/classiera-search.php:302
+msgid "Kenyan Shilling"
+msgstr ""
+
+#: inc/classiera-search.php:305
+msgid "Cambodian Riel"
+msgstr ""
+
+#: inc/classiera-search.php:308
+msgid "Comorian Franc"
+msgstr ""
+
+#: inc/classiera-search.php:311
+msgid "South Korean Won"
+msgstr ""
+
+#: inc/classiera-search.php:314
+msgid "Kuwaiti Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:317
+msgid "Kazakhstani Tenge"
+msgstr ""
+
+#: inc/classiera-search.php:320
+msgid "Lebanese Pound"
+msgstr ""
+
+#: inc/classiera-search.php:323
+msgid "Sri Lankan Rupee"
+msgstr ""
+
+#: inc/classiera-search.php:326
+msgid "Lithuanian Litas"
+msgstr ""
+
+#: inc/classiera-search.php:329
+msgid "Latvian Lats"
+msgstr ""
+
+#: inc/classiera-search.php:332
+msgid "Libyan Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:335
+msgid "Moroccan Dirham"
+msgstr ""
+
+#: inc/classiera-search.php:338
+msgid "Moldovan Leu"
+msgstr ""
+
+#: inc/classiera-search.php:341
+msgid "Malagasy Ariary"
+msgstr ""
+
+#: inc/classiera-search.php:344
+msgid "Macedonian Denar"
+msgstr ""
+
+#: inc/classiera-search.php:347
+msgid "Myanma Kyat"
+msgstr ""
+
+#: inc/classiera-search.php:350
+msgid "Macanese Pataca"
+msgstr ""
+
+#: inc/classiera-search.php:353
+msgid "Mauritian Rupee"
+msgstr ""
+
+#: inc/classiera-search.php:356
+msgid "Mexican Peso"
+msgstr ""
+
+#: inc/classiera-search.php:359
+msgid "Malaysian Ringgit"
+msgstr ""
+
+#: inc/classiera-search.php:362
+msgid "Mozambican Metical"
+msgstr ""
+
+#: inc/classiera-search.php:365
+msgid "Namibian Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:368
+msgid "Nigerian Naira"
+msgstr ""
+
+#: inc/classiera-search.php:371
+msgid "Nicaraguan Córdoba"
+msgstr ""
+
+#: inc/classiera-search.php:374
+msgid "Norwegian Krone"
+msgstr ""
+
+#: inc/classiera-search.php:377
+msgid "Nepalese Rupee"
+msgstr ""
+
+#: inc/classiera-search.php:380
+msgid "New Zealand Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:383
+msgid "Omani Rial"
+msgstr ""
+
+#: inc/classiera-search.php:386
+msgid "Panamanian Balboa"
+msgstr ""
+
+#: inc/classiera-search.php:389
+msgid "Peruvian Nuevo Sol"
+msgstr ""
+
+#: inc/classiera-search.php:392
+msgid "Philippine Peso"
+msgstr ""
+
+#: inc/classiera-search.php:395
+msgid "Pakistani Rupee"
+msgstr ""
+
+#: inc/classiera-search.php:398
+msgid "Polish Zloty"
+msgstr ""
+
+#: inc/classiera-search.php:401
+msgid "Paraguayan Guarani"
+msgstr ""
+
+#: inc/classiera-search.php:404
+msgid "Qatari Rial"
+msgstr ""
+
+#: inc/classiera-search.php:407
+msgid "Romanian Leu"
+msgstr ""
+
+#: inc/classiera-search.php:410
+msgid "Serbian Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:413
+msgid "Russian Ruble"
+msgstr ""
+
+#: inc/classiera-search.php:416
+msgid "Rwandan Franc"
+msgstr ""
+
+#: inc/classiera-search.php:419
+msgid "Saudi Riyal"
+msgstr ""
+
+#: inc/classiera-search.php:422
+msgid "Sudanese Pound"
+msgstr ""
+
+#: inc/classiera-search.php:425
+msgid "Swedish Krona"
+msgstr ""
+
+#: inc/classiera-search.php:428
+msgid "Singapore Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:431
+msgid "Somali Shilling"
+msgstr ""
+
+#: inc/classiera-search.php:434
+msgid "Syrian Pound"
+msgstr ""
+
+#: inc/classiera-search.php:437
+msgid "Thai Baht"
+msgstr ""
+
+#: inc/classiera-search.php:440
+msgid "Tunisian Dinar"
+msgstr ""
+
+#: inc/classiera-search.php:443
+msgid "Tongan Paʻanga"
+msgstr ""
+
+#: inc/classiera-search.php:446
+msgid "Turkish Lira"
+msgstr ""
+
+#: inc/classiera-search.php:449
+msgid "Trinidad and Tobago Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:452
+msgid "New Taiwan Dollar"
+msgstr ""
+
+#: inc/classiera-search.php:455
+msgid "Ukrainian Hryvnia"
+msgstr ""
+
+#: inc/classiera-search.php:458
+msgid "Ugandan Shilling"
+msgstr ""
+
+#: inc/classiera-search.php:461
+msgid "Uruguayan Peso"
+msgstr ""
+
+#: inc/classiera-search.php:464
+msgid "Uzbekistan Som"
+msgstr ""
+
+#: inc/classiera-search.php:467
+msgid "Venezuelan Bolívar"
+msgstr ""
+
+#: inc/classiera-search.php:470
+msgid "Vietnamese Dong"
+msgstr ""
+
+#: inc/classiera-search.php:473
+msgid "Yemeni Rial"
+msgstr ""
+
+#: inc/classiera-search.php:476
+msgid "South African Rand"
+msgstr ""
+
+#: inc/classiera-search.php:479
+msgid "Zambian Kwacha"
+msgstr ""
+
+#: inc/page_meta.php:5
+msgid "Page Meta"
+msgstr ""
+
+#: inc/page_meta.php:16
+msgid "Page Sliders"
+msgstr ""
+
+#: inc/page_meta.php:20
+msgid "Page slider"
+msgstr ""
+
+#: inc/page_meta.php:23
+msgid "none"
+msgstr ""
+
+#: inc/page_meta.php:24
+msgid "LayerSlider"
+msgstr ""
+
+#: inc/page_meta.php:26
+msgid "Select page slider."
+msgstr ""
+
+#: inc/page_meta.php:30
+msgid "LayeSlider Shortcode"
+msgstr ""
+
+#: inc/page_meta.php:33
+msgid "Enter layerslider shortcode (leave empty for):"
+msgstr ""
+
+#: inc/page_meta.php:76
+msgid "Page meta end"
+msgstr ""
+
+#: inc/post_meta.php:8
+msgid "Make it Fatured post"
+msgstr ""
+
+#: inc/post_meta.php:79 inc/widgets/recent_posts_widget.php:283 search.php:226
+#: single.php:934 template-locations.php:321 template-locations.php:916
+#: template-locations.php:935 template-locations.php:956
+#: template-user-plans.php:60 template-user-plans.php:128
+#: template-user-plans.php:187 templates/classiera-loops/loop-ivy.php:91
+#: templates/classiera-loops/loop-ivy.php:110
+#: templates/classiera-loops/loop-ivy.php:131
+#: templates/classiera-loops/loop-strobe.php:109
+#: templates/premium/premiumv2.php:156 templates/premium/premiumv4.php:145
+#: templates/premium/premiumv5.php:136
+#: templates/slider/classiera-header-map.php:111
+msgid "Price"
+msgstr ""
+
+#: inc/post_meta.php:124 single.php:316 template-locations.php:971
+#: templates/classiera-adv-search.php:159
+#: templates/classiera-loops/loop-ivy.php:146
+msgid "Location"
+msgstr ""
+
+#: inc/post_meta.php:254
+msgctxt "post"
+msgid "Rejected"
+msgstr ""
+
+#: inc/post_meta.php:259
+#, php-format
+msgid "Rejected <span class=\"count\">(%s)</span>"
+msgid_plural "Rejected <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/widgets/blog-categories.php:6
+msgid "Blogs Categories"
+msgstr ""
+
+#: inc/widgets/blog-categories.php:61 inc/widgets/categories.php:125
+#: inc/widgets/contact-info.php:113 inc/widgets/recent-blog-post.php:124
+#: inc/widgets/recent_posts_widget.php:344
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/categories.php:6
+msgid "Classiera Categories"
+msgstr ""
+
+#: inc/widgets/categories.php:129
+msgid "Counter:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:11 inc/widgets/contact-info.php:13
+msgid "Contact Info Widget"
+msgstr ""
+
+#: inc/widgets/contact-info.php:97 template-contact.php:243
+msgid "Contact Info"
+msgstr ""
+
+#: inc/widgets/contact-info.php:98
+msgid "About Description"
+msgstr ""
+
+#: inc/widgets/contact-info.php:99
+msgid "Change Address"
+msgstr ""
+
+#: inc/widgets/contact-info.php:100
+msgid "Put Your Email Here"
+msgstr ""
+
+#: inc/widgets/contact-info.php:101
+msgid "Change Phone"
+msgstr ""
+
+#: inc/widgets/contact-info.php:105
+msgid "Show Logo?"
+msgstr ""
+
+#: inc/widgets/contact-info.php:109
+msgid "Show About Description?"
+msgstr ""
+
+#: inc/widgets/contact-info.php:117
+msgid "About Description:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:121
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:126
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/contact-info.php:130
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/widgets/recent-blog-post.php:6
+msgid "Show Latest Blog Posts."
+msgstr ""
+
+#: inc/widgets/recent-blog-post.php:7
+msgid "Blog Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-blog-post.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-blog-post.php:127
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/recent-blog-post.php:131
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:5
+msgid "Classiera recent posts"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:175
+#: inc/widgets/recent_posts_widget.php:270 search.php:226 single.php:934
+#: template-locations.php:968 template-locations.php:1138
+#: template-locations.php:1180 template-locations.php:1389
+#: template-submit-ads-v2.php:409 templates/classiera-loops/loop-allure.php:141
+#: templates/classiera-loops/loop-iris.php:103
+#: templates/classiera-loops/loop-iris.php:145
+#: templates/classiera-loops/loop-ivy.php:143
+#: templates/classiera-loops/loop-lime.php:111
+#: templates/premium/premiumv1.php:167 templates/premium/premiumv4.php:164
+#: templates/premium/premiumv5.php:156 templates/premium/premiumv6.php:160
+#: templates/related-ads.php:139 templates/slider/classiera-header-map.php:111
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:348
+msgid "Post order"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:350
+msgid "Latest Ads"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:351 inc/woo.php:169
+#: template-user-plans.php:58
+msgid "Featured Ads"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:355
+msgid "Widget Style"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:357
+msgid "Style 1"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:358
+msgid "Style 2"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:365
+msgid "Post from"
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:373
+msgid "If you were not selected for cats, it will show all categories."
+msgstr ""
+
+#: inc/widgets/recent_posts_widget.php:385
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/social_widget.php:4
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:6
+msgid "Classiera: Social Icons"
+msgstr ""
+
+#: inc/widgets/social_widget.php:99
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/social_widget.php:103
+msgid "Note: Set your social links in the Theme Options"
+msgstr ""
+
+#: inc/widgets/social_widget.php:106
+msgid "Show Facebook"
+msgstr ""
+
+#: inc/widgets/social_widget.php:111
+msgid "Show Twitter"
+msgstr ""
+
+#: inc/widgets/social_widget.php:117
+msgid "Show Pinterest"
+msgstr ""
+
+#: inc/widgets/social_widget.php:122
+msgid "Show Flicker"
+msgstr ""
+
+#: inc/widgets/social_widget.php:127
+msgid "Show Google Plus"
+msgstr ""
+
+#: inc/widgets/social_widget.php:132
+msgid "Show Youtube"
+msgstr ""
+
+#: inc/widgets/social_widget.php:137
+msgid "Show vimeo"
+msgstr ""
+
+#: inc/widgets/social_widget.php:141
+msgid "Show instagram"
+msgstr ""
+
+#: inc/woo.php:33
+msgid "Feature this ad only in "
+msgstr ""
+
+#: inc/woo.php:165 template-user-plans.php:186
+msgid "Plan Name"
+msgstr ""
+
+#: inc/woo.php:173 template-user-plans.php:59 template-user-plans.php:190
+msgid "Regular Ads"
+msgstr ""
+
+#: inc/woo.php:177
+msgid "Ads will be live for"
+msgstr ""
+
+#: inc/woo.php:178
+msgid "Only In"
+msgstr ""
+
+#: inc/woo.php:180
+msgid "Please dont update Quantity from here."
+msgstr ""
+
+#: inc/woo.php:185
+msgid "Your post ID"
+msgstr ""
+
+#: inc/woo.php:189
+msgid "Post Title"
+msgstr ""
+
+#: inc/woo.php:193
+msgid "Your Post will be featured"
+msgstr ""
+
+#: inc/wp_bootstrap_navwalker.php:199
+msgid "Add a menu"
+msgstr ""
+
+#: page.php:291 template-fullwidth.php:294
+msgid "Advance Search"
+msgstr ""
+
+#: page.php:299 template-fullwidth.php:302
+#: templates/searchbar/searchstyle1.php:21
+#: templates/searchbar/searchstyle2.php:56
+#: templates/searchbar/searchstyle3.php:59
+#: templates/searchbar/searchstyle4.php:37
+#: templates/searchbar/searchstyle5.php:67
+#: templates/searchbar/searchstyle6.php:58
+#: templates/searchbar/searchstyle7.php:58 templates/slider/sliderv3.php:84
+#: templates/slider/sliderv4.php:84
+msgid "Enter keyword..."
+msgstr ""
+
+#: page.php:303 template-fullwidth.php:306
+msgid "Category..."
+msgstr ""
+
+#: page.php:332 template-fullwidth.php:335
+msgid "Location..."
+msgstr ""
+
+#: page.php:364 template-fullwidth.php:367
+#: templates/searchbar/searchstyle5.php:116
+msgid "Search Now"
+msgstr ""
+
+#: page.php:413 template-fullwidth.php:416
+msgid "Pages:"
+msgstr ""
+
+#: page.php:419 template-fullwidth.php:422
+msgid "Next page"
+msgstr ""
+
+#: page.php:420 template-fullwidth.php:423
+msgid "Previous page"
+msgstr ""
+
+#: pagination.php:10 templates/members/memberv3.php:91
+#: templates/members/memberv3.php:96 templates/premium/premiumv1.php:199
+#: templates/premium/premiumv1.php:205 templates/premium/premiumv3.php:199
+#: templates/premium/premiumv4.php:179 templates/premium/premiumv5.php:176
+#: templates/premium/premiumv6.php:180 templates/singlev1.php:134
+#: templates/singlev2.php:88
+msgid "Previous"
+msgstr ""
+
+#: pagination.php:11 templates/members/memberv3.php:90
+#: templates/members/memberv3.php:97 templates/premium/premiumv1.php:194
+#: templates/premium/premiumv1.php:210 templates/premium/premiumv3.php:200
+#: templates/premium/premiumv4.php:182 templates/premium/premiumv5.php:179
+#: templates/premium/premiumv6.php:183 templates/singlev1.php:138
+#: templates/singlev2.php:92
+msgid "Next"
+msgstr ""
+
+#: pagination.php:57
+msgid "previous"
+msgstr ""
+
+#: pagination.php:72
+msgid "next"
+msgstr ""
+
+#: search.php:126 templates/slider/classiera-header-map.php:20
+msgid "Search ads by your Location"
+msgstr ""
+
+#: search.php:404 search.php:555 search.php:703 search.php:850 search.php:1007
+#: search.php:1151 search.php:1295
+msgid "Ads Founded"
+msgstr ""
+
+#: search.php:406 search.php:557 search.php:705 search.php:852 search.php:1009
+#: search.php:1153 search.php:1297
+msgid "Related to your search"
+msgstr ""
+
+#: search.php:506
+msgid "No results found for the selected search criteria."
+msgstr ""
+
+#: searchform.php:14
+msgid "Enter keyword"
+msgstr ""
+
+#: single-blog.php:56 templates/classiera-adv-search.php:214
+msgid "Categories"
+msgstr ""
+
+#: single-blog.php:71 single-blog_posts.php:48 single.php:449
+#: template-locations.php:334 template-locations.php:524
+#: templates/classiera-loops/loop-coral.php:124
+#: templates/classiera-loops/loop-lime.php:132
+#: templates/classiera-loops/loop-strobe.php:123
+msgid "Tags"
+msgstr ""
+
+#: single-blog.php:97
+msgid "Share"
+msgstr ""
+
+#: single-price_plan.php:37 templates/plans/plansv1.php:49
+#: templates/plans/plansv2.php:49 templates/plans/plansv3.php:49
+#: templates/plans/plansv4.php:49 templates/plans/plansv5.php:50
+#: templates/plans/plansv6.php:50 templates/plans/plansv7.php:50
+msgid "Free"
+msgstr ""
+
+#: single-price_plan.php:51 templates/plans/plansv1.php:64
+msgid "Popular"
+msgstr ""
+
+#: single-price_plan.php:59 single-price_plan.php:86 template-edit-post.php:149
+#: template-submit-ads-v2.php:1117 template-submit-ads.php:1072
+#: templates/plans/plansv1.php:72 templates/plans/plansv1.php:108
+#: templates/plans/plansv2.php:95 templates/plans/plansv2.php:124
+#: templates/plans/plansv3.php:115 templates/plans/plansv4.php:96
+#: templates/plans/plansv5.php:70 templates/plans/plansv5.php:108
+#: templates/plans/plansv6.php:69 templates/plans/plansv6.php:91
+#: templates/plans/plansv7.php:69 templates/plans/plansv7.php:88
+msgid "For"
+msgstr ""
+
+#: single-price_plan.php:61 templates/plans/plansv1.php:74
+#: templates/plans/plansv2.php:97 templates/plans/plansv2.php:126
+#: templates/plans/plansv3.php:97
+msgid "Day Only"
+msgstr ""
+
+#: single-price_plan.php:79 templates/plans/plansv1.php:101
+#: templates/plans/plansv2.php:111 templates/plans/plansv3.php:108
+#: templates/plans/plansv4.php:89 templates/plans/plansv5.php:98
+#: templates/plans/plansv6.php:81 templates/plans/plansv7.php:81
+msgid "Featured ads availability"
+msgstr ""
+
+#: single-price_plan.php:83 templates/plans/plansv1.php:105
+#: templates/plans/plansv2.php:115 templates/plans/plansv3.php:112
+#: templates/plans/plansv4.php:93 templates/plans/plansv5.php:102
+#: templates/plans/plansv6.php:85 templates/plans/plansv7.php:85
+msgid "Regular ads availability"
+msgstr ""
+
+#: single-price_plan.php:88 template-edit-post.php:149
+#: template-submit-ads-v2.php:1117 template-submit-ads.php:1072
+#: templates/plans/plansv1.php:110 templates/plans/plansv3.php:117
+#: templates/plans/plansv4.php:98 templates/plans/plansv5.php:72
+#: templates/plans/plansv5.php:110 templates/plans/plansv6.php:71
+#: templates/plans/plansv6.php:93 templates/plans/plansv6.php:111
+#: templates/plans/plansv7.php:71 templates/plans/plansv7.php:90
+#: templates/plans/plansv7.php:107
+msgid "days"
+msgstr ""
+
+#: single-price_plan.php:118 templates/plans/plansv1.php:140
+#: templates/plans/plansv2.php:160 templates/plans/plansv3.php:147
+#: templates/plans/plansv4.php:128 templates/plans/plansv5.php:141
+#: templates/plans/plansv6.php:142 templates/plans/plansv7.php:139
+msgid "Post Ad"
+msgstr ""
+
+#: single-price_plan.php:125 single-price_plan.php:131
+#: templates/plans/plansv1.php:147 templates/plans/plansv1.php:153
+#: templates/plans/plansv2.php:168 templates/plans/plansv2.php:175
+#: templates/plans/plansv3.php:154 templates/plans/plansv3.php:160
+#: templates/plans/plansv4.php:135 templates/plans/plansv4.php:141
+#: templates/plans/plansv5.php:148 templates/plans/plansv5.php:154
+#: templates/plans/plansv6.php:149 templates/plans/plansv6.php:155
+#: templates/plans/plansv7.php:146 templates/plans/plansv7.php:152
+msgid "Purchase Now"
+msgstr ""
+
+#: single-price_plan.php:141 template-profile.php:241
+#: template-user-all-ads.php:139 templates/plans/plansv1.php:163
+#: templates/plans/plansv2.php:186 templates/plans/plansv3.php:170
+#: templates/plans/plansv4.php:151 templates/plans/plansv5.php:164
+#: templates/plans/plansv6.php:165 templates/plans/plansv7.php:162
+msgid "View Cart"
+msgstr ""
+
+#: single.php:98 template-contact.php:87
+msgid "Not Human"
+msgstr ""
+
+#: single.php:122
+msgid "This is illegal/fraudulent Ads, please take action."
+msgstr ""
+
+#: single.php:125
+msgid "This Ad is SPAM, please take action"
+msgstr ""
+
+#: single.php:128
+msgid "This ad is a duplicate, please take action"
+msgstr ""
+
+#: single.php:131
+msgid "This ad is in the wrong category, please take action"
+msgstr ""
+
+#: single.php:134
+msgid "The ad goes against posting rules, please take action"
+msgstr ""
+
+#: single.php:144
+msgid "Thanks for report, Our Team will take action ASAP."
+msgstr ""
+
+#: single.php:219
+msgid "Congratulation!"
+msgstr ""
+
+#: single.php:219
+msgid ""
+"Your Ad has submitted and pending for review. After review your Ad will be "
+"live for all users. You may not preview it more than once.!"
+msgstr ""
+
+#: single.php:253 template-edit-post.php:149 template-submit-ads-v2.php:486
+#: template-submit-ads.php:475
+msgid "Ad Details"
+msgstr ""
+
+#: single.php:257
+msgid "Ad ID"
+msgstr ""
+
+#: single.php:265
+msgid "Added"
+msgstr ""
+
+#: single.php:276 template-submit-ads-v2.php:614
+msgid "Sale Price"
+msgstr ""
+
+#: single.php:292
+msgid "Regular Price"
+msgstr ""
+
+#: single.php:309
+msgid "Condition"
+msgstr ""
+
+#: single.php:345
+msgid "Views"
+msgstr ""
+
+#: single.php:390
+msgid "Yes"
+msgstr ""
+
+#: single.php:408
+msgid "Video"
+msgstr ""
+
+#: single.php:443
+msgid "Description"
+msgstr ""
+
+#: single.php:470
+msgid "Bids"
+msgstr ""
+
+#: single.php:473
+msgid "BID Stats"
+msgstr ""
+
+#: single.php:475
+msgid "Bids posted on this ad"
+msgstr ""
+
+#: single.php:480
+msgid "Highest Bid"
+msgstr ""
+
+#: single.php:486
+msgid "Lowest Bid"
+msgstr ""
+
+#: single.php:520
+msgid "Offering"
+msgstr ""
+
+#: single.php:530
+msgid "BID"
+msgstr ""
+
+#: single.php:538
+msgid "Let’s Create Your Bid"
+msgstr ""
+
+#: single.php:539
+msgid "Only registred user can post offer"
+msgstr ""
+
+#: single.php:544
+msgid "Ad Price"
+msgstr ""
+
+#: single.php:553
+msgid "Enter your bidding price"
+msgstr ""
+
+#: single.php:557
+msgid "Enter bidding price"
+msgstr ""
+
+#: single.php:557
+msgid "Only integer"
+msgstr ""
+
+#: single.php:563
+msgid "Enter your comment"
+msgstr ""
+
+#: single.php:567
+msgid "please type your comment"
+msgstr ""
+
+#: single.php:584
+msgid "Send offer"
+msgstr ""
+
+#: single.php:598
+msgid "Comments"
+msgstr ""
+
+#: single.php:667 templates/singlev2.php:174
+msgid "see all ads"
+msgstr ""
+
+#: single.php:691 templates/singlev2.php:197
+msgid "Reveal"
+msgstr ""
+
+#: single.php:730
+msgid "Send Email"
+msgstr ""
+
+#: single.php:760
+msgid "Type your name"
+msgstr ""
+
+#: single.php:766
+msgid "Type your email"
+msgstr ""
+
+#: single.php:770 template-contact.php:198
+msgid "Subject"
+msgstr ""
+
+#: single.php:772
+msgid "Type your subject"
+msgstr ""
+
+#: single.php:776
+msgid "Msg"
+msgstr ""
+
+#: single.php:778
+msgid "Type Message"
+msgstr ""
+
+#: single.php:789
+msgid "Please input the result of "
+msgstr ""
+
+#: single.php:795
+msgid "Answer"
+msgstr ""
+
+#: single.php:797
+msgid "Your answer"
+msgstr ""
+
+#: single.php:804 template-contact.php:238
+msgid "Send Message"
+msgstr ""
+
+#: single.php:837 single.php:869
+msgid "Report"
+msgstr ""
+
+#: single.php:851
+msgid "This is illegal/fraudulent"
+msgstr ""
+
+#: single.php:853
+msgid "This ad is spam"
+msgstr ""
+
+#: single.php:855
+msgid "This ad is a duplicate"
+msgstr ""
+
+#: single.php:857
+msgid "This ad is in the wrong category"
+msgstr ""
+
+#: single.php:859
+msgid "The ad goes against posting rules"
+msgstr ""
+
+#: single.php:861
+msgid "Other"
+msgstr ""
+
+#: single.php:864
+msgid "Type here..!"
+msgstr ""
+
+#: single.php:889 templates/singlev2.php:234
+msgid "Share ad"
+msgstr ""
+
+#: single.php:990
+msgid "Get Directions on Google MAPS to"
+msgstr ""
+
+#: template-contact.php:154
+msgid "Contact Form"
+msgstr ""
+
+#: template-contact.php:175
+msgid "Full name"
+msgstr ""
+
+#: template-contact.php:178
+msgid "Enter your full name"
+msgstr ""
+
+#: template-contact.php:178
+msgid "Name Requried"
+msgstr ""
+
+#: template-contact.php:186 template-submit-ads-v2.php:1047
+#: template-submit-ads.php:1003
+msgid "Enter your email"
+msgstr ""
+
+#: template-contact.php:186 template-register.php:240 template-reset.php:128
+msgid "Email required"
+msgstr ""
+
+#: template-contact.php:194
+msgid "Enter your phone number"
+msgstr ""
+
+#: template-contact.php:201
+msgid "Enter Subject"
+msgstr ""
+
+#: template-contact.php:201
+msgid "Subject Requried"
+msgstr ""
+
+#: template-contact.php:208
+msgid "Please type message"
+msgstr ""
+
+#: template-contact.php:208
+msgid "Type your message here...!"
+msgstr ""
+
+#: template-contact.php:220
+msgid "Human test. Please input the result of"
+msgstr ""
+
+#: template-contact.php:226
+msgid "Security Question"
+msgstr ""
+
+#: template-contact.php:229
+msgid "Your Answer"
+msgstr ""
+
+#: template-contact.php:229
+msgid "Security Answer Requried"
+msgstr ""
+
+#: template-edit-post.php:69
+msgid "Please select a title."
+msgstr ""
+
+#: template-edit-post.php:74 template-submit-ads-v2.php:308
+#: template-submit-ads.php:311
+msgid "Please select a category."
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "EDIT YOUR AD"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads.php:406
+msgid "Select a Category"
+msgstr ""
+
+#: template-edit-post.php:149 templates/searchbar/searchstyle1.php:30
+#: templates/searchbar/searchstyle2.php:25
+#: templates/searchbar/searchstyle3.php:24
+#: templates/searchbar/searchstyle4.php:49
+#: templates/searchbar/searchstyle6.php:25
+#: templates/searchbar/searchstyle7.php:25 templates/slider/sliderv3.php:51
+#: templates/slider/sliderv4.php:51
+msgid "Select Category.."
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:495
+#: template-submit-ads.php:484 templates/classiera-adv-search.php:354
+msgid "Type of Ad"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:502
+#: template-submit-ads.php:488
+msgid "I want to sell"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:510
+#: template-submit-ads.php:491
+msgid "I want to buy"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:518
+#: template-submit-ads.php:494
+msgid "I want to rent"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:526
+#: template-submit-ads.php:497
+msgid "I want to hire"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:400
+#: template-submit-ads.php:503
+msgid "Ad title"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:402
+#: template-submit-ads.php:505
+msgid "Ad Title Goes here"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:403
+#: template-submit-ads.php:506
+msgid "type minimum 5 characters"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:535
+#: template-submit-ads.php:510
+msgid "Ad description"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:537
+#: template-submit-ads.php:512
+msgid "Write description"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Ad Tags"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Tags Example : ads, car, cat, business"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:583
+#: template-submit-ads.php:539
+msgid "Ad price"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "sale price"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:633
+#: template-submit-ads.php:589
+msgid "Regular price"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:639
+#: template-submit-ads.php:595
+msgid "Currency sign is already set as"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:639
+#: template-submit-ads.php:595
+msgid ""
+"Please do not use currency sign in price field. Only use numbers ex: 12345"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:559
+#: template-submit-ads.php:604
+msgid "Your Phone/Mobile"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:565
+#: template-submit-ads.php:610
+msgid "Enter your phone number or Mobile number"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:569
+#: template-submit-ads.php:614
+msgid ""
+"Its Not required, but if you will put phone here then it will show publicly"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:655
+#: template-submit-ads.php:627
+msgid "new"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:656
+#: template-submit-ads.php:628
+msgid "Brand New"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:663
+#: template-submit-ads.php:629
+msgid "used"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:664
+#: template-submit-ads.php:630 templates/classiera-adv-search.php:345
+#: templates/classiera-adv-search.php:346
+msgid "Used"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Select Features"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:707
+#: template-submit-ads.php:674
+msgid "Image And Video"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:709
+#: template-submit-ads.php:676
+msgid "Photos and Video for your ad"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Select files to Upload / Drag and Drop Files"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:715
+#: template-submit-ads.php:682
+msgid "You can add multiple images. Ads With photo get 50% more Responses"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:716
+#: template-submit-ads.php:683
+msgid "You can upload"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:716
+#: template-submit-ads.php:683
+msgid "Images maximum."
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Remove"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:747
+#: template-submit-ads-v2.php:749 template-submit-ads.php:714
+#: template-submit-ads.php:716
+msgid "Put here iframe or video url."
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:751
+#: template-submit-ads.php:718
+msgid "Add iframe or video URL (iframe 710x400) (youtube, vimeo, etc)"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:765
+#: template-submit-ads.php:733
+msgid "Ad Location"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:780
+#: template-submit-ads-v2.php:785 template-submit-ads.php:748
+#: template-submit-ads.php:753 templates/classiera-adv-search.php:178
+msgid "Select Country"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:805
+#: template-submit-ads-v2.php:810 template-submit-ads.php:773
+#: template-submit-ads.php:778 templates/classiera-adv-search.php:193
+msgid "Select State"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:823
+#: template-submit-ads-v2.php:828 template-submit-ads.php:791
+#: template-submit-ads.php:796 templates/classiera-adv-search.php:203
+msgid "Select City"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:840
+#: template-submit-ads.php:808
+msgid "Address or City"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:851
+#: template-submit-ads.php:819
+msgid "Set Latitude & Longitude"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1073
+#: template-submit-ads.php:1029
+msgid "Select Ad Post Type"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1074
+#: template-submit-ads.php:1030
+msgid "Select an Option to make your ad featured or regular"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Featured:"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Expiry:"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Never"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1147
+#: template-submit-ads.php:1107
+msgid "Total Ads Available"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1148
+#: template-submit-ads.php:1108
+msgid "Used Ads with this Plan"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1104
+#: template-submit-ads-v2.php:1120 template-submit-ads-v2.php:1151
+#: template-submit-ads.php:1057 template-submit-ads.php:1075
+#: template-submit-ads.php:1111
+msgid "Select"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1116
+#: template-submit-ads.php:1071
+msgid "Regular"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1165
+#: template-submit-ads.php:1125
+msgid "Featured Ad"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1169
+#: template-submit-ads.php:1129
+msgid "select"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1186
+#: template-submit-ads.php:1146
+msgid "Currently you have no active plan for featured ads. You must purchase a"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1186
+#: template-submit-ads.php:1146
+msgid "Featured Pricing Plan"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1186
+#: template-submit-ads.php:1146
+msgid "to be able to publish a Featured Ad."
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "By clicking \"Update Ad\", you agree to our"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1194
+#: template-submit-ads.php:1154
+msgid "Terms of Use"
+msgstr ""
+
+#: template-edit-post.php:149 template-submit-ads-v2.php:1194
+#: template-submit-ads.php:1154
+msgid "and acknowledge that you are the rightful owner of this item"
+msgstr ""
+
+#: template-edit-post.php:149
+msgid "Update Ad"
+msgstr ""
+
+#: template-edit-profile.php:31 template-edit-profile.php:118
+msgid "Your profile updated successfully."
+msgstr ""
+
+#: template-edit-profile.php:105
+msgid "Password must be 5 to 25 characters in length."
+msgstr ""
+
+#: template-edit-profile.php:113 template-login-v2.php:153
+#: template-register.php:80
+msgid "Password Mismatch"
+msgstr ""
+
+#: template-edit-profile.php:176 templates/profile/userabout.php:142
+msgid "Profile Settings"
+msgstr ""
+
+#: template-edit-profile.php:199
+msgid "Update your Profile Photo"
+msgstr ""
+
+#: template-edit-profile.php:201
+msgid ""
+"Update your avatar manually,If the not set the default Gravatar will be the "
+"same as your login email/user account."
+msgstr ""
+
+#: template-edit-profile.php:205
+msgid "Upload photo"
+msgstr ""
+
+#: template-edit-profile.php:209
+msgid "Verified your account"
+msgstr ""
+
+#: template-edit-profile.php:217
+msgid "Basic Information"
+msgstr ""
+
+#: template-edit-profile.php:221
+msgid "First Name"
+msgstr ""
+
+#: template-edit-profile.php:223
+msgid "Update first Name.."
+msgstr ""
+
+#: template-edit-profile.php:227
+msgid "Last Name"
+msgstr ""
+
+#: template-edit-profile.php:229
+msgid "update last Name"
+msgstr ""
+
+#: template-edit-profile.php:233
+msgid "Biography"
+msgstr ""
+
+#: template-edit-profile.php:235
+msgid "enter your short info."
+msgstr ""
+
+#: template-edit-profile.php:246
+msgid "Phone Number"
+msgstr ""
+
+#: template-edit-profile.php:248
+msgid "Your Phone No"
+msgstr ""
+
+#: template-edit-profile.php:252
+msgid "Mobile Number"
+msgstr ""
+
+#: template-edit-profile.php:254
+msgid "update your mobile number"
+msgstr ""
+
+#: template-edit-profile.php:258
+msgid "Your Website"
+msgstr ""
+
+#: template-edit-profile.php:260
+msgid "enter your website link"
+msgstr ""
+
+#: template-edit-profile.php:264 template-reset.php:123
+#: template-submit-ads-v2.php:1045 template-submit-ads.php:1001
+msgid "Your Email"
+msgstr ""
+
+#: template-edit-profile.php:266
+msgid "enter your email address"
+msgstr ""
+
+#: template-edit-profile.php:271
+msgid "Your Country"
+msgstr ""
+
+#: template-edit-profile.php:273
+msgid "enter your country"
+msgstr ""
+
+#: template-edit-profile.php:277
+msgid "Your State"
+msgstr ""
+
+#: template-edit-profile.php:279
+msgid "enter your State"
+msgstr ""
+
+#: template-edit-profile.php:283
+msgid "Your City"
+msgstr ""
+
+#: template-edit-profile.php:285
+msgid "enter your City"
+msgstr ""
+
+#: template-edit-profile.php:289
+msgid "Your Post Code"
+msgstr ""
+
+#: template-edit-profile.php:291
+msgid "enter your Post Code"
+msgstr ""
+
+#: template-edit-profile.php:297
+msgid "enter your address"
+msgstr ""
+
+#: template-edit-profile.php:304
+msgid "Socail Profile Links"
+msgstr ""
+
+#: template-edit-profile.php:312
+msgid "Enter your facebook url"
+msgstr ""
+
+#: template-edit-profile.php:321
+msgid "Enter your twitter url"
+msgstr ""
+
+#: template-edit-profile.php:330
+msgid "Enter your Google Plus url"
+msgstr ""
+
+#: template-edit-profile.php:335
+msgid "instagram"
+msgstr ""
+
+#: template-edit-profile.php:339
+msgid "Enter your instagram url"
+msgstr ""
+
+#: template-edit-profile.php:348
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: template-edit-profile.php:357
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: template-edit-profile.php:362
+msgid "Vimeo"
+msgstr ""
+
+#: template-edit-profile.php:366
+msgid "Enter your vimeo url"
+msgstr ""
+
+#: template-edit-profile.php:371
+msgid "Youtube"
+msgstr ""
+
+#: template-edit-profile.php:375
+msgid "Enter your YouTube url"
+msgstr ""
+
+#: template-edit-profile.php:382
+msgid "Update your Password"
+msgstr ""
+
+#: template-edit-profile.php:386
+msgid "Enter Current Password"
+msgstr ""
+
+#: template-edit-profile.php:389
+msgid "Enter your current password"
+msgstr ""
+
+#: template-edit-profile.php:396
+msgid "Enter New Password"
+msgstr ""
+
+#: template-edit-profile.php:399 template-login-v2.php:287
+#: template-login.php:158
+msgid "Enter Password"
+msgstr ""
+
+#: template-edit-profile.php:399 template-login-v2.php:287
+#: template-login.php:158
+msgid "Password required"
+msgstr ""
+
+#: template-edit-profile.php:401 template-register.php:258
+msgid "Minimum of 5 characters"
+msgstr ""
+
+#: template-edit-profile.php:409 template-edit-profile.php:412
+msgid "Re-enter New Password"
+msgstr ""
+
+#: template-edit-profile.php:412 template-login-v2.php:340
+#: template-register.php:271
+msgid "Whoops, these dont match"
+msgstr ""
+
+#: template-edit-profile.php:417
+msgid ""
+"If you would like to change the password type a new one. Otherwise leave "
+"this blank."
+msgstr ""
+
+#: template-edit-profile.php:420
+msgid "Update Now"
+msgstr ""
+
+#: template-edit-profile.php:444
+msgid "Verify Your Account Now"
+msgstr ""
+
+#: template-edit-profile.php:447
+msgid "Following these Setps"
+msgstr ""
+
+#: template-edit-profile.php:454
+msgid "example@email.com"
+msgstr ""
+
+#: template-edit-profile.php:460
+msgid "Get verification Code"
+msgstr ""
+
+#: template-edit-profile.php:467
+msgid "Check your email inbox and paste code below"
+msgstr ""
+
+#: template-edit-profile.php:470
+msgid "Enter your verified code"
+msgstr ""
+
+#: template-edit-profile.php:476
+msgid "Verify Now"
+msgstr ""
+
+#: template-favorite.php:61 template-profile.php:285
+msgid "Favorite Ads"
+msgstr ""
+
+#: template-favorite.php:140 template-profile.php:355
+msgid "You do not have any favourite ad yet!"
+msgstr ""
+
+#: template-follow.php:65
+msgid "Followers"
+msgstr ""
+
+#: template-follow.php:98
+msgid "View Profile"
+msgstr ""
+
+#: template-follow.php:114
+msgid "Following"
+msgstr ""
+
+#: template-locations.php:274 template-locations.php:463
+#: template-locations.php:670 template-locations.php:892
+#: template-locations.php:1098 template-locations.php:1309
+#: templates/classiera-loops/loop-allure.php:61
+#: templates/classiera-loops/loop-canary.php:64
+#: templates/classiera-loops/loop-coral.php:63
+#: templates/classiera-loops/loop-iris.php:63
+#: templates/classiera-loops/loop-ivy.php:66
+#: templates/classiera-loops/loop-lime.php:70
+#: templates/classiera-loops/loop-strobe.php:62 templates/plans/plansv3.php:51
+#: templates/plans/plansv4.php:51 templates/plans/plansv5.php:53
+#: templates/plans/plansv6.php:53 templates/plans/plansv7.php:53
+#: templates/premium/premiumv1.php:121 templates/premium/premiumv2.php:108
+#: templates/premium/premiumv3.php:121 templates/premium/premiumv4.php:121
+#: templates/premium/premiumv5.php:116 templates/premium/premiumv6.php:118
+#: templates/related-ads.php:102
+msgid "Featured"
+msgstr ""
+
+#: template-locations.php:293 template-locations.php:482
+#: templates/classiera-loops/loop-coral.php:82
+#: templates/classiera-loops/loop-lime.php:88
+#: templates/classiera-loops/loop-strobe.php:81
+#: templates/premium/premiumv4.php:140 templates/premium/premiumv5.php:163
+#: templates/premium/premiumv6.php:167
+msgid "view ad"
+msgstr ""
+
+#: template-locations.php:733 template-locations.php:912
+#: template-locations.php:951 template-locations.php:1185
+#: template-locations.php:1394 templates/classiera-loops/loop-allure.php:146
+#: templates/classiera-loops/loop-canary.php:127
+#: templates/classiera-loops/loop-iris.php:150
+#: templates/classiera-loops/loop-ivy.php:87
+#: templates/classiera-loops/loop-ivy.php:126
+#: templates/premium/premiumv1.php:140 templates/premium/premiumv2.php:128
+#: templates/related-ads.php:120
+msgid "View Ad"
+msgstr ""
+
+#: template-login-v2.php:107 template-register.php:27
+msgid "Registration successful."
+msgstr ""
+
+#: template-login-v2.php:125 template-register.php:45
+msgid "User name should not be empty."
+msgstr ""
+
+#: template-login-v2.php:136 template-login-v2.php:142 template-register.php:60
+#: template-register.php:67
+msgid "Please enter a valid email."
+msgstr ""
+
+#: template-login-v2.php:148 template-register.php:75
+msgid "Password must be 5 to 15 characters in length."
+msgstr ""
+
+#: template-login-v2.php:160 template-register.php:87
+msgid "Registration successful"
+msgstr ""
+
+#: template-login-v2.php:171 template-register.php:103
+msgid "Username or E-mail already exists. Please try another one."
+msgstr ""
+
+#: template-login-v2.php:194 template-register.php:131
+msgid "You Must Need to Agree With Terms And Condations."
+msgstr ""
+
+#: template-login-v2.php:215
+msgid "Login OR Register"
+msgstr ""
+
+#: template-login-v2.php:220 template-login.php:73
+msgid "Login or Signup With Social Media"
+msgstr ""
+
+#: template-login-v2.php:230 template-login.php:83 template-reset.php:82
+msgid "Login via Facebook"
+msgstr ""
+
+#: template-login-v2.php:239 template-login.php:92 template-reset.php:91
+msgid "Login via Twitter"
+msgstr ""
+
+#: template-login-v2.php:248 template-login.php:101 template-reset.php:100
+msgid "Login via Google"
+msgstr ""
+
+#: template-login-v2.php:265 template-login.php:118 template-register.php:203
+#: template-reset.php:112
+msgid "OR"
+msgstr ""
+
+#: template-login-v2.php:274
+msgid "Login via username"
+msgstr ""
+
+#: template-login-v2.php:280 template-login.php:144
+msgid "Your Username"
+msgstr ""
+
+#: template-login-v2.php:280
+msgid "Username is required"
+msgstr ""
+
+#: template-login-v2.php:294 template-login.php:168
+msgid "Remember me"
+msgstr ""
+
+#: template-login-v2.php:299 template-login.php:176
+msgid "LOGIN NOW"
+msgstr ""
+
+#: template-login-v2.php:306
+msgid "Register an Account"
+msgstr ""
+
+#: template-login-v2.php:311 template-register.php:162
+msgid "Oh snap!"
+msgstr ""
+
+#: template-login-v2.php:319 template-register.php:224
+msgid "Enter username"
+msgstr ""
+
+#: template-login-v2.php:319 template-register.php:224
+msgid "username required"
+msgstr ""
+
+#: template-login-v2.php:326
+msgid "Enter email address"
+msgstr ""
+
+#: template-login-v2.php:333
+msgid "Enter password"
+msgstr ""
+
+#: template-login-v2.php:333 template-register.php:257
+msgid "password required"
+msgstr ""
+
+#: template-login-v2.php:334
+msgid "Minimum of 5 characters."
+msgstr ""
+
+#: template-login-v2.php:340 template-register.php:271
+msgid "re-enter password"
+msgstr ""
+
+#: template-login-v2.php:346 template-register.php:283
+msgid "you must need to agree with our terms and condition"
+msgstr ""
+
+#: template-login-v2.php:347 template-register.php:284
+msgid "Agree to"
+msgstr ""
+
+#: template-login-v2.php:347 template-register.php:286
+msgid "terms & Condition"
+msgstr ""
+
+#: template-login-v2.php:353
+msgid "Register"
+msgstr ""
+
+#: template-login-v2.php:363 template-reset.php:69
+msgid "Reset Your Password"
+msgstr ""
+
+#: template-login-v2.php:369
+msgid "enter email address"
+msgstr ""
+
+#: template-login-v2.php:375
+msgid "Get password"
+msgstr ""
+
+#: template-login.php:38
+msgid "Invalid username or password. Please try again!"
+msgstr ""
+
+#: template-login.php:139
+msgid "UserName"
+msgstr ""
+
+#: template-login.php:144
+msgid "UserName is required"
+msgstr ""
+
+#: template-login.php:153 template-register.php:252
+msgid "Password"
+msgstr ""
+
+#: template-login.php:171
+msgid "Forget Password?"
+msgstr ""
+
+#: template-login.php:179
+msgid "If you don’t have account?"
+msgstr ""
+
+#: template-login.php:180
+msgid "Create an account."
+msgstr ""
+
+#: template-message.php:53
+msgid "Messages"
+msgstr ""
+
+#: template-message.php:59
+msgid "Sent Offers"
+msgstr ""
+
+#: template-message.php:64
+msgid "Recived Offers"
+msgstr ""
+
+#: template-message.php:241
+msgid "You have not sent any offer..!"
+msgstr ""
+
+#: template-message.php:369
+msgid "You have not received any offer yet..!"
+msgstr ""
+
+#: template-profile.php:69 templates/profile/userabout.php:84
+msgid "About Me"
+msgstr ""
+
+#: template-profile.php:174 templates/profile/userabout.php:90
+msgid "My Ads"
+msgstr ""
+
+#: template-profile.php:222 template-user-all-ads.php:120
+msgid "ID"
+msgstr ""
+
+#: template-profile.php:232 template-user-all-ads.php:130
+msgid "Pay to Publish"
+msgstr ""
+
+#: template-profile.php:262 template-user-all-ads.php:160
+msgid "Edit"
+msgstr ""
+
+#: template-profile.php:266 template-user-all-ads.php:164
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: template-profile.php:268 template-user-all-ads.php:166
+msgid "Confirm"
+msgstr ""
+
+#: template-profile.php:277 templates/blogs/blogv1.php:84
+#: templates/blogs/blogv2.php:84 templates/categoriesstyle/catstyle6.php:116
+#: templates/category/catstyle6.php:124
+msgid "View All"
+msgstr ""
+
+#: template-register.php:127
+msgid "Check Your Inbox for User Name And Password"
+msgstr ""
+
+#: template-register.php:156
+msgid "Well done!"
+msgstr ""
+
+#: template-register.php:156
+msgid "You successfully registred, check your email inbox for password."
+msgstr ""
+
+#: template-register.php:156
+msgid "Click here"
+msgstr ""
+
+#: template-register.php:156
+msgid "for login"
+msgstr ""
+
+#: template-register.php:177
+msgid "Login or Signup With Social Account"
+msgstr ""
+
+#: template-register.php:182
+msgid "Login with Facebook"
+msgstr ""
+
+#: template-register.php:186
+msgid "Login with Twitter"
+msgstr ""
+
+#: template-register.php:190
+msgid "Login with Google"
+msgstr ""
+
+#: template-register.php:217
+msgid "Username"
+msgstr ""
+
+#: template-register.php:235
+msgid "Email Address"
+msgstr ""
+
+#: template-register.php:240
+msgid "example@example.com"
+msgstr ""
+
+#: template-register.php:257
+msgid "enter password"
+msgstr ""
+
+#: template-register.php:266
+msgid "Confirm password"
+msgstr ""
+
+#: template-register.php:294
+msgid "Register now"
+msgstr ""
+
+#: template-register.php:297
+msgid "Already have account?"
+msgstr ""
+
+#: template-register.php:297
+msgid "Login here"
+msgstr ""
+
+#: template-register.php:307
+msgid "Registration!"
+msgstr ""
+
+#: template-register.php:307
+msgid "Registration is currently disabled. Please try again later."
+msgstr ""
+
+#: template-reset.php:38
+msgid ""
+"Check your email for new password. Check your inbox or spam/junk and get "
+"your password"
+msgstr ""
+
+#: template-reset.php:42
+msgid "There is no user available for this email."
+msgstr ""
+
+#: template-reset.php:45
+msgid "Email should not be empty."
+msgstr ""
+
+#: template-reset.php:73
+msgid "Login or Signup With Social Link"
+msgstr ""
+
+#: template-reset.php:128
+msgid "Type Your Email"
+msgstr ""
+
+#: template-reset.php:137
+msgid "Reset Password"
+msgstr ""
+
+#: template-submit-ads-v2.php:44 template-submit-ads-v2.php:304
+#: template-submit-ads.php:46 template-submit-ads.php:307
+msgid "Please enter a title."
+msgstr ""
+
+#: template-submit-ads-v2.php:50 template-submit-ads.php:52
+msgid "Please select a category"
+msgstr ""
+
+#: template-submit-ads-v2.php:60 template-submit-ads.php:62
+msgid "You selected Images Count is exceeded"
+msgstr ""
+
+#: template-submit-ads-v2.php:387 template-submit-ads.php:394
+msgid "Hello."
+msgstr ""
+
+#: template-submit-ads-v2.php:387 template-submit-ads.php:394
+msgid ""
+"You Ads Posts limit are exceeded, Please Purchase a Plan for posting More "
+"Ads."
+msgstr ""
+
+#: template-submit-ads-v2.php:387 template-submit-ads.php:394
+msgid "Purchase Plan"
+msgstr ""
+
+#: template-submit-ads-v2.php:394 template-submit-ads.php:401
+msgid "MAKE NEW AD"
+msgstr ""
+
+#: template-submit-ads-v2.php:463 template-submit-ads-v2.php:474
+#: template-submit-ads.php:456 template-submit-ads.php:465
+msgid "Select a Sub Category"
+msgstr ""
+
+#: template-submit-ads-v2.php:488 template-submit-ads.php:477
+msgid "Selected Category"
+msgstr ""
+
+#: template-submit-ads-v2.php:542 template-submit-ads.php:517
+#: templates/classiera-adv-search.php:148
+msgid "Keywords"
+msgstr ""
+
+#: template-submit-ads-v2.php:548 template-submit-ads.php:523
+msgid "enter keywords for better search..!"
+msgstr ""
+
+#: template-submit-ads-v2.php:552 template-submit-ads.php:527
+msgid "Keywords Example : ads, car, cat, business"
+msgstr ""
+
+#: template-submit-ads-v2.php:714 template-submit-ads.php:681
+msgid "Select files to Upload"
+msgstr ""
+
+#: template-submit-ads-v2.php:1014 template-submit-ads.php:982
+msgid "Seller Information"
+msgstr ""
+
+#: template-submit-ads-v2.php:1016 template-submit-ads.php:984
+msgid "Your Are"
+msgstr ""
+
+#: template-submit-ads-v2.php:1023 template-submit-ads.php:988
+msgid "Individual"
+msgstr ""
+
+#: template-submit-ads-v2.php:1031 template-submit-ads.php:990
+msgid "Dealer"
+msgstr ""
+
+#: template-submit-ads-v2.php:1039 template-submit-ads.php:995
+msgid "Your Name"
+msgstr ""
+
+#: template-submit-ads-v2.php:1041 template-submit-ads.php:997
+msgid "Enter Your Name"
+msgstr ""
+
+#: template-submit-ads-v2.php:1051 template-submit-ads.php:1007
+msgid "Your Phone or Mobile No"
+msgstr ""
+
+#: template-submit-ads-v2.php:1053 template-submit-ads.php:1009
+msgid "Enter your Mobile or Phone number"
+msgstr ""
+
+#: template-submit-ads-v2.php:1091 template-submit-ads.php:1046
+msgid "Regular with "
+msgstr ""
+
+#: template-submit-ads-v2.php:1095 template-submit-ads.php:1048
+msgid "Available Regular ads "
+msgstr ""
+
+#: template-submit-ads-v2.php:1099 template-submit-ads.php:1052
+msgid "Used Regular ads"
+msgstr ""
+
+#: template-submit-ads-v2.php:1135 template-submit-ads.php:1094
+msgid "Unlimited for Admin Only"
+msgstr ""
+
+#: template-submit-ads-v2.php:1194 template-submit-ads.php:1154
+msgid "By clicking \"Publish Ad\", you agree to our"
+msgstr ""
+
+#: template-submit-ads-v2.php:1203 template-submit-ads.php:1163
+msgid "Publish Ad"
+msgstr ""
+
+#: template-submit-ads.php:570
+msgid "Sale price"
+msgstr ""
+
+#: template-user-all-ads.php:65
+msgid "User Ads"
+msgstr ""
+
+#: template-user-plans.php:42
+msgid "Order History"
+msgstr ""
+
+#: template-user-plans.php:56
+msgid "Packeg Name"
+msgstr ""
+
+#: template-user-plans.php:57 template-user-plans.php:127
+msgid "Duration"
+msgstr ""
+
+#: template-user-plans.php:62 template-user-plans.php:130
+msgid "Details"
+msgstr ""
+
+#: template-user-plans.php:63 template-user-plans.php:131
+msgid "Payment Method"
+msgstr ""
+
+#: template-user-plans.php:105 template-user-plans.php:162
+msgid "View order details"
+msgstr ""
+
+#: template-user-plans.php:119
+msgid "Order History for Single Featured Posts"
+msgstr ""
+
+#: template-user-plans.php:125
+msgid "Post Name"
+msgstr ""
+
+#: template-user-plans.php:126
+msgid "Post ID"
+msgstr ""
+
+#: template-user-plans.php:173
+msgid "Currently you have no order details."
+msgstr ""
+
+#: template-user-plans.php:180
+msgid "Ads Plans Details"
+msgstr ""
+
+#: template-user-plans.php:188
+msgid "Feature Ads"
+msgstr ""
+
+#: template-user-plans.php:189
+msgid "Used Featured"
+msgstr ""
+
+#: template-user-plans.php:191
+msgid "Used Regular"
+msgstr ""
+
+#: template-user-plans.php:192
+msgid "Available Featured"
+msgstr ""
+
+#: template-user-plans.php:193
+msgid "Available Regular"
+msgstr ""
+
+#: template-user-plans.php:195
+msgid "status"
+msgstr ""
+
+#: templates/adv/advstyle1.php:13 templates/adv/advstyle2.php:22
+#: templates/adv/advstyle3.php:22 templates/adv/advstyle4.php:22
+#: templates/adv/advstyle5.php:13 templates/adv/advstyle6.php:13
+#: templates/adv/advstyle7.php:13
+msgid "ADVERTISEMENTS"
+msgstr ""
+
+#: templates/adv/advstyle1.php:25 templates/adv/advstyle2.php:36
+#: templates/adv/advstyle3.php:37 templates/adv/advstyle4.php:38
+#: templates/adv/advstyle5.php:28 templates/adv/advstyle6.php:28
+#: templates/adv/advstyle7.php:28 templates/catinner/style1.php:14
+#: templates/catinner/style2.php:16 templates/catinner/style3.php:17
+#: templates/catinner/style4.php:18 templates/catinner/style5.php:17
+#: templates/catinner/style6.php:17 templates/catinner/style7.php:17
+msgid "All Ads"
+msgstr ""
+
+#: templates/adv/advstyle1.php:28 templates/adv/advstyle2.php:39
+#: templates/adv/advstyle3.php:42 templates/adv/advstyle4.php:44
+#: templates/adv/advstyle5.php:34 templates/adv/advstyle6.php:33
+#: templates/adv/advstyle7.php:33 templates/catinner/style1.php:17
+#: templates/catinner/style2.php:19 templates/catinner/style3.php:22
+#: templates/catinner/style4.php:24 templates/catinner/style5.php:23
+#: templates/catinner/style6.php:22 templates/catinner/style7.php:22
+msgid "Random Ads"
+msgstr ""
+
+#: templates/adv/advstyle1.php:31 templates/adv/advstyle2.php:42
+#: templates/adv/advstyle3.php:47 templates/adv/advstyle4.php:50
+#: templates/adv/advstyle5.php:40 templates/adv/advstyle6.php:38
+#: templates/adv/advstyle7.php:38 templates/catinner/style1.php:20
+#: templates/catinner/style2.php:22 templates/catinner/style3.php:27
+#: templates/catinner/style4.php:30 templates/catinner/style5.php:29
+#: templates/catinner/style6.php:27 templates/catinner/style7.php:27
+msgid "Popular Ads"
+msgstr ""
+
+#: templates/adv/advstyle1.php:181 templates/adv/advstyle1.php:185
+#: templates/adv/advstyle2.php:158 templates/adv/advstyle3.php:165
+#: templates/adv/advstyle4.php:179 templates/adv/advstyle5.php:156
+#: templates/adv/advstyle6.php:153 templates/adv/advstyle7.php:153
+#: templates/categoriesstyle/catstyle7.php:124
+#: templates/category/catstyle7.php:126
+msgid "View All Ads"
+msgstr ""
+
+#: templates/adv/advstyle4.php:35 templates/catinner/style4.php:15
+msgid "Filter By"
+msgstr ""
+
+#: templates/blogs/blogv1.php:51 templates/blogs/blogv2.php:51
+#: templates/blogs/blogv3.php:51 templates/blogs/blogv4.php:51
+msgid "View Post"
+msgstr ""
+
+#: templates/blogs/blogv1.php:65 templates/blogs/blogv2.php:65
+#: templates/blogs/blogv3.php:65 templates/blogs/blogv4.php:65
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/blogs/blogv3.php:84 templates/blogs/blogv4.php:84
+msgid "View All Posts"
+msgstr ""
+
+#: templates/categoriesstyle/catstyle1.php:123
+#: templates/categoriesstyle/catstyle2.php:118
+#: templates/categoriesstyle/catstyle3.php:83
+#: templates/category/catstyle1.php:128 templates/category/catstyle2.php:128
+#: templates/category/catstyle3.php:89
+msgid "VIEW ALL"
+msgstr ""
+
+#: templates/categoriesstyle/catstyle3.php:77
+#: templates/category/catstyle3.php:83
+msgid "items posted"
+msgstr ""
+
+#: templates/categoriesstyle/catstyle4.php:84
+#: templates/category/catstyle4.php:90
+msgid "ads posted in this category"
+msgstr ""
+
+#: templates/categoriesstyle/catstyle6.php:131
+#: templates/categoriesstyle/catstyle7.php:91
+#: templates/category/catstyle6.php:90 templates/category/catstyle6.php:144
+#: templates/category/catstyle7.php:92 templates/locations/locationsv1.php:74
+#: templates/locations/locationsv2.php:70
+#: templates/locations/locationsv3.php:73
+msgid "Ads posted"
+msgstr ""
+
+#: templates/category/catstyle1.php:147 templates/category/catstyle1.php:151
+#: templates/category/catstyle2.php:142 templates/category/catstyle3.php:96
+#: templates/category/catstyle4.php:102 templates/category/catstyle5.php:89
+#: templates/category/catstyle6.php:153 templates/category/catstyle7.php:134
+#: templates/category/menu-bar-cats.php:129
+msgid "View All Categories"
+msgstr ""
+
+#: templates/category/menu-bar-cats.php:19
+msgid "Toggle navigation"
+msgstr ""
+
+#: templates/category/menu-bar-cats.php:24
+msgid "Browse Category"
+msgstr ""
+
+#: templates/category/menu-bar-cats.php:122
+msgid "View all subcategories"
+msgstr ""
+
+#: templates/catinner/style1.php:33
+msgid "Total Ads"
+msgstr ""
+
+#: templates/catinner/style1.php:33
+msgid "ads found"
+msgstr ""
+
+#: templates/classiera-adv-search.php:26
+msgid "Advanced Search"
+msgstr ""
+
+#: templates/classiera-adv-search.php:45
+msgid "Price Range"
+msgstr ""
+
+#: templates/classiera-adv-search.php:124
+msgid "Price range"
+msgstr ""
+
+#: templates/classiera-adv-search.php:136
+msgid "Min price"
+msgstr ""
+
+#: templates/classiera-adv-search.php:139
+msgid "Max price"
+msgstr ""
+
+#: templates/classiera-adv-search.php:152
+msgid "Enter Keyword"
+msgstr ""
+
+#: templates/classiera-adv-search.php:221
+msgid "Select category"
+msgstr ""
+
+#: templates/classiera-adv-search.php:339
+msgid "Select Condition"
+msgstr ""
+
+#: templates/classiera-adv-search.php:342
+#: templates/classiera-adv-search.php:358
+msgid "All"
+msgstr ""
+
+#: templates/classiera-adv-search.php:343
+#: templates/classiera-adv-search.php:344
+msgid "New"
+msgstr ""
+
+#: templates/classiera-adv-search.php:367
+msgid "For Rent"
+msgstr ""
+
+#: templates/classiera-adv-search.php:377
+#: templates/searchbar/searchstyle1.php:83
+#: templates/searchbar/searchstyle2.php:84
+#: templates/searchbar/searchstyle4.php:120
+#: templates/searchbar/searchstyle6.php:84
+#: templates/searchbar/searchstyle7.php:84 templates/slider/sliderv3.php:110
+#: templates/slider/sliderv4.php:110
+msgid "Search"
+msgstr ""
+
+#: templates/classiera-locations-dropdown.php:23
+#: templates/classiera-locations-dropdown.php:47
+msgid "Select Location.."
+msgstr ""
+
+#: templates/email/email_functions.php:40
+#: templates/email/email_functions.php:45
+#: templates/email/email_functions.php:177
+msgid "Hi"
+msgstr ""
+
+#: templates/email/email_functions.php:40
+#: templates/email/email_functions.php:45
+msgid "Congratulations your item has been listed"
+msgstr ""
+
+#: templates/email/email_functions.php:46
+#: templates/email/email_functions.php:177
+msgid "on"
+msgstr ""
+
+#: templates/email/email_functions.php:49
+msgid "You have successfully listed your item on"
+msgstr ""
+
+#: templates/email/email_functions.php:49
+msgid "now sit back and let us do the hard work."
+msgstr ""
+
+#: templates/email/email_functions.php:52
+msgid "If youd like to take a look"
+msgstr ""
+
+#: templates/email/email_functions.php:54
+msgid "Click Here"
+msgstr ""
+
+#: templates/email/email_functions.php:84
+#: templates/email/email_functions.php:89
+msgid "A very special welcome to you"
+msgstr ""
+
+#: templates/email/email_functions.php:89
+msgid "Thank you for joining"
+msgstr ""
+
+#: templates/email/email_functions.php:92
+msgid "Your username is"
+msgstr ""
+
+#: templates/email/email_functions.php:96
+msgid "Your password is"
+msgstr ""
+
+#: templates/email/email_functions.php:100
+msgid "We hope you enjoy your stay at"
+msgstr ""
+
+#: templates/email/email_functions.php:100
+msgid ""
+"If you have any problems, questions, opinions, praise, comments, "
+"suggestions, please feel free to contact us at"
+msgstr ""
+
+#: templates/email/email_functions.php:101
+msgid "any time!"
+msgstr ""
+
+#: templates/email/email_functions.php:130
+msgid "New User has been Registered !"
+msgstr ""
+
+#: templates/email/email_functions.php:133
+msgid "Hello Admin, New User Registred on"
+msgstr ""
+
+#: templates/email/email_functions.php:138
+msgid "Hello, New User has been Registred on"
+msgstr ""
+
+#: templates/email/email_functions.php:138
+msgid "By using this email"
+msgstr ""
+
+#: templates/email/email_functions.php:141
+msgid "His User name is:"
+msgstr ""
+
+#: templates/email/email_functions.php:172
+msgid "Hello Admin, New Ads Posted on"
+msgstr ""
+
+#: templates/email/email_functions.php:177
+msgid "Have Post New Ads"
+msgstr ""
+
+#: templates/email/email_functions.php:179
+msgid "Please Approve or Reject this Post from WordPress Dashboard."
+msgstr ""
+
+#: templates/email/email_functions.php:200
+msgid "Your Ad is Rejected..!"
+msgstr ""
+
+#: templates/email/email_functions.php:209
+msgid "Hello"
+msgstr ""
+
+#: templates/email/email_functions.php:214
+msgid "We want to inform you, your ad is rejected, which you have posts on"
+msgstr ""
+
+#: templates/email/email_functions.php:216
+msgid ""
+"Please visit your Dashboard to see post status, For more information contact "
+"with website admin at this email."
+msgstr ""
+
+#: templates/email/email_functions.php:247
+msgid "You have received email from"
+msgstr ""
+
+#: templates/email/email_functions.php:252
+msgid "Your have received this email from"
+msgstr ""
+
+#: templates/email/email_functions.php:256
+#: templates/email/email_functions.php:459
+msgid "Sender Name"
+msgstr ""
+
+#: templates/email/email_functions.php:260
+#: templates/email/email_functions.php:462
+msgid "Sender Email"
+msgstr ""
+
+#: templates/email/email_functions.php:264
+msgid "Your Post Title"
+msgstr ""
+
+#: templates/email/email_functions.php:268
+msgid "Your Post URL"
+msgstr ""
+
+#: templates/email/email_functions.php:291
+msgid "Password Reset"
+msgstr ""
+
+#: templates/email/email_functions.php:300
+msgid "Keep Your Password Always safe..!"
+msgstr ""
+
+#: templates/email/email_functions.php:305
+msgid "Your UserName Was"
+msgstr ""
+
+#: templates/email/email_functions.php:309
+msgid "Your New Password is"
+msgstr ""
+
+#: templates/email/email_functions.php:350
+msgid "New BID Offer Received..!"
+msgstr ""
+
+#: templates/email/email_functions.php:359
+msgid "Congratulations you have received new offer for your post"
+msgstr ""
+
+#: templates/email/email_functions.php:367
+msgid "Your Price was"
+msgstr ""
+
+#: templates/email/email_functions.php:371
+msgid "Offered Price"
+msgstr ""
+
+#: templates/email/email_functions.php:375
+msgid "Visit your profile inbox to reply to user."
+msgstr ""
+
+#: templates/email/email_functions.php:393
+msgid "Report Ad Notification!"
+msgstr ""
+
+#: templates/email/email_functions.php:402
+msgid "Hello Admin, DMCA/Copyright"
+msgstr ""
+
+#: templates/email/email_functions.php:407
+msgid "Hi Someone Report an Ad which is posted on your website."
+msgstr ""
+
+#: templates/email/email_functions.php:411
+msgid "Post Title Is"
+msgstr ""
+
+#: templates/email/email_functions.php:419
+msgid "Post Link"
+msgstr ""
+
+#: templates/email/email_functions.php:465
+msgid "Sender Phone"
+msgstr ""
+
+#: templates/locations/locationsv5.php:84
+msgid "ads posted in this location"
+msgstr ""
+
+#: templates/locations/locationsv5.php:86
+msgid "View all ads"
+msgstr ""
+
+#: templates/members/memberv1.php:24 templates/members/memberv1.php:30
+#: templates/members/memberv1.php:36 templates/members/memberv1.php:42
+#: templates/members/memberv1.php:48 templates/members/memberv1.php:54
+#: templates/members/memberv2.php:39 templates/members/memberv2.php:47
+#: templates/members/memberv2.php:55 templates/members/memberv2.php:63
+#: templates/members/memberv2.php:71 templates/members/memberv2.php:79
+#: templates/members/memberv2.php:87 templates/members/memberv2.php:95
+#: templates/members/memberv3.php:40 templates/members/memberv3.php:46
+#: templates/members/memberv3.php:52 templates/members/memberv3.php:58
+#: templates/members/memberv3.php:64 templates/members/memberv3.php:70
+#: templates/members/memberv3.php:76 templates/members/memberv3.php:82
+#: templates/members/memberv4.php:30 templates/members/memberv4.php:36
+#: templates/members/memberv4.php:42 templates/members/memberv4.php:48
+#: templates/members/memberv4.php:54 templates/members/memberv4.php:60
+#: templates/members/memberv4.php:66 templates/members/memberv4.php:72
+#: templates/members/memberv5.php:26 templates/members/memberv5.php:32
+#: templates/members/memberv5.php:38 templates/members/memberv5.php:44
+#: templates/members/memberv5.php:50 templates/members/memberv5.php:56
+#: templates/members/memberv6.php:26 templates/members/memberv6.php:32
+#: templates/members/memberv6.php:38 templates/members/memberv6.php:44
+#: templates/members/memberv6.php:50 templates/members/memberv6.php:56
+msgid "partner"
+msgstr ""
+
+#: templates/nav-bar.php:119 templates/nav-bar.php:237
+msgid "Social network"
+msgstr ""
+
+#: templates/nav-bar.php:334
+msgid "categories"
+msgstr ""
+
+#: templates/nav-bar.php:398
+msgid "Follow us"
+msgstr ""
+
+#: templates/plans/plansv2.php:61 templates/plans/plansv3.php:102
+msgid "Most Popular"
+msgstr ""
+
+#: templates/plans/plansv2.php:91 templates/plans/plansv2.php:120
+msgid "For Life Time"
+msgstr ""
+
+#: templates/plans/plansv3.php:95
+msgid "Avaible For"
+msgstr ""
+
+#: templates/plans/plansv4.php:59
+msgid "Recomended"
+msgstr ""
+
+#: templates/plans/plansv5.php:68 templates/plans/plansv5.php:106
+msgid "Life Time on Regular Place"
+msgstr ""
+
+#: templates/plans/plansv6.php:67 templates/plans/plansv6.php:89
+msgid "For life time in regular place"
+msgstr ""
+
+#: templates/plans/plansv7.php:67
+msgid "Ads will shown on regular place"
+msgstr ""
+
+#: templates/profile/userabout.php:96
+msgid "Watch later Ads"
+msgstr ""
+
+#: templates/profile/userabout.php:132
+msgid "Packages"
+msgstr ""
+
+#: templates/profile/userabout.php:137
+msgid "Follower"
+msgstr ""
+
+#: templates/profile/userabout.php:147
+msgid "Logout"
+msgstr ""
+
+#: templates/profile/userabout.php:154
+msgid "POST NEW AD"
+msgstr ""
+
+#: templates/related-ads.php:14
+msgid "Related ads"
+msgstr ""
+
+#: templates/searchbar/searchstyle1.php:21
+#: templates/searchbar/searchstyle2.php:56
+#: templates/searchbar/searchstyle3.php:59
+#: templates/searchbar/searchstyle4.php:37
+#: templates/searchbar/searchstyle5.php:67
+#: templates/searchbar/searchstyle6.php:58
+#: templates/searchbar/searchstyle7.php:58 templates/slider/sliderv3.php:84
+#: templates/slider/sliderv4.php:84
+msgid "Please Type some words..!"
+msgstr ""
+
+#: templates/searchbar/searchstyle1.php:31
+#: templates/searchbar/searchstyle2.php:26
+#: templates/searchbar/searchstyle3.php:25
+#: templates/searchbar/searchstyle4.php:50
+#: templates/searchbar/searchstyle5.php:38
+#: templates/searchbar/searchstyle6.php:26
+#: templates/searchbar/searchstyle7.php:26 templates/slider/sliderv3.php:52
+#: templates/slider/sliderv4.php:52
+msgid "All Categories"
+msgstr ""
+
+#: templates/searchbar/searchstyle1.php:67
+#: templates/searchbar/searchstyle2.php:71
+#: templates/searchbar/searchstyle3.php:74
+#: templates/searchbar/searchstyle4.php:87
+#: templates/searchbar/searchstyle5.php:81
+#: templates/searchbar/searchstyle6.php:71
+#: templates/searchbar/searchstyle7.php:71 templates/slider/sliderv3.php:97
+#: templates/slider/sliderv4.php:97
+msgid "Click here to get your own location"
+msgstr ""
+
+#: templates/searchbar/searchstyle1.php:70
+#: templates/searchbar/searchstyle6.php:70
+#: templates/searchbar/searchstyle7.php:70 templates/slider/sliderv3.php:96
+#: templates/slider/sliderv4.php:96
+msgid "Please type your location"
+msgstr ""
+
+#: templates/searchbar/searchstyle2.php:70
+#: templates/searchbar/searchstyle3.php:73
+msgid "type your location"
+msgstr ""
+
+#: templates/searchbar/searchstyle3.php:86
+msgid "Go"
+msgstr ""
+
+#: templates/searchbar/searchstyle4.php:86
+#: templates/searchbar/searchstyle5.php:80
+msgid "Please type location"
+msgstr ""
+
+#: templates/searchbar/searchstyle4.php:104
+#: templates/searchbar/searchstyle5.php:98
+msgid "Select price range"
+msgstr ""
+
+#: templates/searchbar/searchstyle4.php:105
+#: templates/searchbar/searchstyle5.php:99
+msgid "select price range"
+msgstr ""
+
+#: templates/singlev1.php:46 templates/singlev1.php:53
+#: templates/singlev2.php:134 templates/singlev2.php:141
+msgid "Edit Post"
+msgstr ""
+
+#: templates/singlev1.php:126 templates/singlev2.php:80
+msgid "1"
+msgstr ""
+
+#: templates/singlev1.php:127 templates/singlev2.php:81
+msgid "of"
+msgstr ""
+
+#: templates/top-bar.php:100
+msgid "Support"
+msgstr ""
+
+#: templates/top-bar.php:114
+msgid "Call"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Classiera"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid ""
+"http://themeforest.net/item/classiera-classified-ads-wordpress-"
+"theme/14138208?ref=JoinWebs"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Classiera Classified Ads WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JoinWebs"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://joinwebs.com"
+msgstr ""
